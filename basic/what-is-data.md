@@ -69,13 +69,51 @@ The principles covered in the rest of this course apply to most types of data
 ---
 ## Data as a research object
 
-![Data-Research-Object](concept-measurement-data.png "fig:")
+![](concept-measurement-data.png "fig:")
 
 
 
 ::: notes
 Data is a representation of something in the world, that has been captured in a specific way
 Through this course we will use the terms, Concept, Measure and Data
+:::
+
+---
+
+## Data as a research object (Example)
+
+![](concept-measurement-data2.png "fig:")
 
 
 
+::: notes
+Concept of Age
+Measures in years
+Represented as an interger (whole years)
+:::
+
+---
+
+## Data as Research object (Terminology)
+
+![](concept-measurement-data-explained.png "fig:")
+
+
+
+::: notes
+:::
+
+---
+
+## Summary
+
+To use data effectively, you will need to understand:
+
+- What concept it is describing
+- How it is measured
+- How it is represented
+- What it represents and how it can be quantified
+
+The purpose of metadata is to provide a framework to describe and understand data, so that it can used in an intelligent and meaningful way
+
+---
