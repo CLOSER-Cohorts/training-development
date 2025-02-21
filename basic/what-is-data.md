@@ -4,9 +4,7 @@ author: Jon Johnson
 date: September 27, 2024
 ---
 
-# Intended Learing Outcome
-
-## Intended Learing Outcome
+## Intended Learning Outcome
 
 To be able to demonstrate a firm understanding of what data is and its purpose in research
 
@@ -21,6 +19,8 @@ Ask the participants to take 5 minutes to discuss and come up with some thoughts
 Collect responses from participants
 :::
 
+---
+
 ## Exercise 1: Characteristics of Data (Discussion)
 
 We thought of:
@@ -31,6 +31,7 @@ We thought of:
 - Could have a domension (weight, height, colour)
 - Is consistent in the data type used, all numbers, all text
 
+---
 
 ## What is Data (Definition)
 
@@ -45,27 +46,18 @@ Data has a meaning and purpose by having:
 - Values represent something in the (real or imaginary) world
 - Is represented in a way that can be quantified and analysed.
 
+---
 
 ## What is Data (Examples)
 
 **Meaning**
 
-::::: columns
+| Meaning or purpose   | Representation   |
+|----------------------|------------------|
+| No / Yes             | 0 . 1            | 
+| Weight (kg)          | 55               | 
+| Colour black / white | #000000, #000000 |
+| Animal               | :chicken:, :cow: |
+|----------------------|------------------|
 
-::: column
-Meaning or purpose
-- Size
-- weight
-- distance form another object
-- social class
-:::
-
-::: column
-Representation
-- 0, 1
-- false. true
-- #000000 (black): #FFFFFF (white)
-- :chicken:, :octopus:
-:::
-:::::
-
+---
