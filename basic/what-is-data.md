@@ -37,7 +37,7 @@ We thought of:
 
 **Wikipedia**
 
-Data is a collection of discrete or continuous *values* that convey *information* describing the *quantity, quality, fact, statistics*, or other basic units of meaning, or sequences of *symbols* that may be further *interpreted formally*
+Data is a collection of discrete or continuous *values* that convey *information* describing the *quantity, quality, fact, statistics*, or other basic units of meaning, or sequences of *symbols* that may be further interpreted *formally*
 
 **Alernative definition**
 
