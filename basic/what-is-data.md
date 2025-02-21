@@ -67,6 +67,7 @@ The principles covered in the rest of this course apply to most types of data
 - Less obviously it also applies to data such as text, images or sound which is processed into ‘numbers’ for statistical analysis
 
 ---
+
 ## Data as a research object
 
 ![](concept-measurement-data.png "fig:")
@@ -101,6 +102,7 @@ Represented as an interger (whole years)
 
 
 ::: notes
+need some additional text to help
 :::
 
 ---
