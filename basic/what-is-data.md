@@ -50,14 +50,32 @@ Data has a meaning and purpose by having:
 
 ## What is Data (Examples)
 
-**Meaning**
-
 | Meaning or purpose   | Representation   |
 |----------------------|------------------|
-| No / Yes             | 0 . 1            | 
+| No / Yes             | 0 , 1            | 
 | Weight (kg)          | 55               | 
 | Colour black / white | #000000, #000000 |
-| Animal               | :chicken:, :cow: |
-|----------------------|------------------|
+| Animal               | :chicken:  :cow: |
 
 ---
+
+## Data covered in this course
+
+The principles covered in the rest of this course apply to most types of data
+
+- Most obviously, it applies to data which has been collected for a specific purpose, through a measurement such as Blood Pressure, a Question in a survey or census, or as part of an administrative process and data captured through a device such as a location
+- Less obviously it also applies to data such as text, images or sound which is processed into ‘numbers’ for statistical analysis
+
+---
+## Data as a research object
+
+![Data-Research-Object](concept-measurement-data.png "fig:")
+
+
+
+::: notes
+Data is a representation of something in the world, that has been captured in a specific way
+Through this course we will use the terms, Concept, Measure and Data
+
+
+
