@@ -51,7 +51,7 @@ We thought of:
 **Findable**: Meta(data) should be easy to find for both humans and computers 
 
 - meta(data) platforms for easier discovery
-- use of DOIs
+- use of persistent identifiers e.g. DOIs
 
 **Accessible**: Users need to know how the data can be accessed
 
