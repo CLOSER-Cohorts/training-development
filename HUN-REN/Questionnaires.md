@@ -14,7 +14,7 @@ date: February 25, 2025
 
 ## What is a question?
 
-![](img/what-is-a-questiona.png)
+![](img/what-is-a-question.png)
 
 
 ---
@@ -48,13 +48,21 @@ date: February 25, 2025
 
 ---
 
+## Questionnare structures and DDI
+
+DDI Lifecycle allows the **specification**, **management of the questionnaire components**, **implementation**, and subsequent **description** of these componente to their **relationship** to the data generated from the questionnaire. It is necessarily complex as a result of its multiple roles.
+
+
+---
+
 ## DDI Items Related to Questions
 
 | Coverage      | DDI-C    | DDI-L             |
 |---------------|----------|-------------------|
 | Questionnaire |          | Instrument        |
+| Question Text | qstLit   | QuestionText      |
 | Question      | qstn     | QuestionItem      |
-|               | qstLit   | QuestionGrid      |
+|               |          | QuestionGrid      |
 |               |          | QuestionBlock     |
 | Measurement   |          | MeasurementItem   |
 | Instruction   | preQTxt  | Instruction       |
@@ -64,7 +72,7 @@ DDI-C has limitations
 
 ---
 
-## QuestionItem
+## QuestionItem 
 
 ![](img/question-item-relationships.png)
 
@@ -79,6 +87,8 @@ DDI-C has limitations
 
 Slides 
 
-DDI Training Group. (2021, August 11). Introducing Question and Instrument Structures. Zenodo. https://doi.org/10.5281/zenodo.5180579
+[![DDI Lifecyle: Questions and Instruments. (2021)],(https://docs.google.com/presentation/d/1wZ03TVoVMv-TWI9rMD-lWUh6XhF233ws/edit#slide=id.p1)
+
+
 
 ---
