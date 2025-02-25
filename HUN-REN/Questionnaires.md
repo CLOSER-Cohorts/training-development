@@ -19,20 +19,60 @@ date: February 25, 2025
 
 ---
 
-## Difference between a Question and a Variable
+## Question vs Variable
 
 ::::: columns
-::: Question
+::: column
+*Question*
+
 - Describes a means of capturing data
 - A question specifies a text and a means of defining the form of the expected response
 - Questions can be organized in a questionnaire
 
 :::
-::: Variable
+::: column
+*Variable*
+
 - Description of data
 - A variable does not need to come from a question
 :::
 :::::
+
+---
+
+## Questions in DDI
+
+**DDI Codebook** is variable-centric – it only provides a partial description of question as the source of data for a variable
+
+**DDI Lifecycle** supports stand-alone question specification and management, can describe the use of a question within a questionnaire flow-logic
+
+---
+
+## DDI Items Related to Questions
+
+| Coverage      | DDI-C    | DDI-L             |
+|---------------|----------|-------------------|
+| Questionnaire |          | Instrument        |
+| Question      | qstn     | QuestionItem      |
+|               | qstLit   | QuestionGrid      |
+|               |          | QuestionBlock     |
+| Measurement   |          | MeasurementItem   |
+| Instruction   | preQTxt  | Instruction       |
+|               | postQTxt |                   |
+
+DDI-C has limitations
+
+---
+
+## QuestionItem
+
+![](img/question-item-relationships.png)
+
+| Routing       |          | Sequence. Loop    |
+|               |          | IfThenmElse.      |
+|               |          | RepeatUntil,      |
+|               |          | RepeatWhile       |
+
 ---
 
 ## Acknowledgements and Sources
