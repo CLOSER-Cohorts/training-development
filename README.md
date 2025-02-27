@@ -8,7 +8,7 @@
 flowchart TD
 
   LH[Learning Hub] 
-  Basic --> WID[What is Data]
+  Introduction --> WID[What is Data]
   WID --> WIM[What is Metadata]
   WIM --> WIF[What is FAIR]
   WIF --> WP[Provenance]
@@ -28,7 +28,7 @@ flowchart TD
   
   
     style LH color:#FFFFFF, fill:#AA00FF, stroke:#AA00FF
-    style Basic color:#FFFFFF, stroke:#00C853, fill:#00C853
+    style Introduction color:#FFFFFF, stroke:#00C853, fill:#00C853
     style WID color:#FFFFOO, stroke:#00C853, fill:#90ee90
     style WIM color:#FFFFOO, stroke:#00C853, fill:#90ee90
     style WIF color:#FFFFOO, stroke:#00C853, fill:#90ee90
