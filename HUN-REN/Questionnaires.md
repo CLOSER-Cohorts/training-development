@@ -48,13 +48,6 @@ date: February 25, 2025
 
 ---
 
-## Questionnare structures and DDI
-
-DDI Lifecycle allows the **specification**, **management of the questionnaire components**, **implementation**, and subsequent **description** of these componente to their **relationship** to the data generated from the questionnaire. It is necessarily complex as a result of its multiple roles.
-
-
----
-
 ## DDI Items Related to Questions
 
 | Coverage      | DDI-C    | DDI-L             |
@@ -68,15 +61,79 @@ DDI Lifecycle allows the **specification**, **management of the questionnaire co
 | Instruction   | preQTxt  | Instruction       |
 |               | postQTxt |                   |
 
-DDI-C has limitations
+DDI-Codebook has limitations for our purposes, so we will just be talking about DDI-Lifecycle
 
 ---
 
-## DDI Instrument (Questionnaire) 
+## Questionnare structures and DDI
+
+DDI Lifecycle allows the **specification**, **management of the questionnaire components**, **implementation**, and subsequent **description** of these componente to their **relationship** to the data generated from the questionnaire. It is necessarily complex as a result of its multiple roles.
+
+
+---
+
+## DDI Instrument Model
 
 ![](img/instrument.png)
 
+:::
+Instruments have a relationship to other instruments (group/scheme), a data collection, types of collection and development activities
+:::
 
+
+---
+
+## DDI Instrument Model
+
+![](img/instrument-high-level.png)
+
+:::
+Just looking at the instrument object, common things to describe a questionnaire, name, label, description but other than that NOTHING that looks familiar
+This is becuase the actual questionnaire is an abstract object called a ControlConstruct which is a wrapper for all the things contained in an actual questionnaire
+:::
+
+
+---
+
+## DDI Control Construct
+
+![](img/control-construct.png)
+
+:::
+
+:::
+
+---
+
+## DDI Sequence
+
+![](img/sequence.png)
+
+:::
+
+:::
+
+---
+
+## DDI Question Construct
+
+![](img/question-construct.png)
+
+:::
+
+:::
+
+---
+
+## DDI Question
+
+![](img/question.png)
+
+:::
+
+:::
+
+---
 
 ## QuestionItem 
 
