@@ -72,6 +72,12 @@ DDI-C has limitations
 
 ---
 
+## DDI Instrument (Questionnaire) 
+
+![](img/instrument.png)
+
+
+
 ## QuestionItem 
 
 ![](img/question-item-relationships.png)
