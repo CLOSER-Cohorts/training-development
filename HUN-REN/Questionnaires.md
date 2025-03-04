@@ -83,7 +83,7 @@ Instruments have a relationship to other instruments (group/scheme), a data coll
 
 ---
 
-## DDI Instrument Model
+## DDI Instrument Model (Focus)
 
 ![](img/instrument-high-level.png)
 
