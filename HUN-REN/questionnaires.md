@@ -191,12 +191,14 @@ There are a wide range of possible representations for responses available
 
 ![](img/question-item-relationships.png)
 
-:::
-Instruction - This is a seperate element from Question Text 
-Concept - a questionItem can be directly associated with a specific or multiple concepts
-QuestionGroup - a way of creating groups of questions by some other typology
-QuestionScheme - a storage container for question items - used for manageing them
-:::
+----
+
+## DDI QuestionItem Key Relationships
+
+- Instruction - This is a seperate element from Question Text 
+- Concept - a questionItem can be directly associated with a specific or multiple concepts
+- QuestionGroup - a way of creating groups of questions by some other typology
+- QuestionScheme - a storage container for question items - used for manageing them
 
 ---
 
