@@ -118,9 +118,9 @@ QuestionItem type brings togather all the elements needed to describe, implement
 
 ---
 
-## Question Item Example
+## Question Item Code List Example
 
-![](img/question-item-example.png)
+![](img/question-item-example-code-list.png)
 
 :::
 This shows a question item from Understanding Society, Question name, text, representation type and cardinality (selection style)
@@ -203,7 +203,41 @@ Codes are used in two ways as traditional code lists and in statistical classifi
 
 ```
 
+---
+
+## Question Item Numeric Example
+
+![](img/question-item-example-numeric.png)
+
+----
+
 ## Numeric Representation
+
+![](numeric-representation.png)
+
+---
+
+## Numeric Representation (Details
+
+```xml
+
+<QuestionText audienceLanguage="en-GB">
+  <LiteralText> <Text>
+   How many hours paid work did you do last week? If you have more than one job please write in the total hours worked at all of them.
+  </Text> </LiteralText>
+</QuestionText>
+<NumericDomain blankIsMissingValue="false">
+  <r:NumberRange>
+    <r:Low isInclusive="true">0</r:Low>
+    <r:High isInclusive="true">168</r:High>
+  </r:NumberRange>
+  <r:NumericTypeCode controlledVocabularyVersionID="1.0">Integer</r:NumericTypeCode>
+  <r:Label>
+    <r:Content xml:lang="en-GB">Hours in week</r:Content>
+  </r:Label>
+</NumericDomain>
+
+```
 
 ---
 
