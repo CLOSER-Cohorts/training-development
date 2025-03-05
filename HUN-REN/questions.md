@@ -83,36 +83,75 @@ QuestionItem type brings togather all the elements needed to describe, implement
 
 ![](img/question-item-relationships.png)
 
-:::
-- Implementation
-  - In/Out Parameter, Binding are for passing information into the question text (she/he etc)
-  - External Aid (e.g. a card with response options)
-  - EstimatedSecondsResponseTime - for a timed question
-  - ResponseCardinality - number of allowed responses e.g. tick all that apply, max 2/8 etc)
-- Management
-  - QuestionScheme
-  - RepresentedVariable (definition of variable from output)
-  - ResponseDomainReference (reference to another place where the ResponseDomain is held)
-  - InterviewerInstructionReference
-:::
+---
+
+## Question Item elements (Implementing)
+
+- In/Out Parameter, Binding are for passing information into the question text (she/he etc)
+- External Aid (e.g. a card with response options)
+- EstimatedSecondsResponseTime - for a timed question
+- ResponseCardinality - number of allowed responses e.g. tick all that apply, max 2/8 etc)
+
+
+---
+
+## Question Item elements (Management)
+
+- QuestionScheme
+- RepresentedVariable (definition of variable from output)
+- ResponseDomainReference (reference to another place where the ResponseDomain is held)
+- InterviewerInstructionReference
+
 
 ---
 
 ## Question Item elements (Describing)
 
 - QuestionItemName, Label, Description (ISO 11179)
+  - QuestionItemName (e.g. A1, WORKTYPE)
 - QuestionIntent, Concept, QuestionGroup (Semantics)
+- Question Text (e.g. What is your name)
 - QuestionText (The question, allows insertion of contextual information)
-- ResponseDomain, StructuredMixedResponseDomain (representations)
+- Representation
+  - ResponseDomain (e.g. CodeList, Text, numeric)
+  - StructuredMixedReponseDomain (e.g CodeList + Text)
 - ExternalInterviewerReference, InterviewerInstructionReference  (to where they are held)
 
 ---
 
-## Representations
+## Representation Types
 
-![](img/representations.png)
+- CodeRepresentation
+- DateTimeRepresentation
+- TextRepresentation
+- NumericRepresentation
+- Other Numeric e.g. Nominal, Scale, Ranks
+- CategoryRepresentation (used in classifications)
+- Geograhical - several available
 
------
+---
+
+## Code Representation
+
+
+
+---
+
+## Numeric Representation
+
+---
+
+## Date / Time Representation
+
+---
+
+## Text Representation
+
+---
+
+## Acknowledgements
+
+
 
 
 
