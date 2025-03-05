@@ -213,11 +213,11 @@ Codes are used in two ways as traditional code lists and in statistical classifi
 
 ## Numeric Representation
 
-![](numeric-representation.png)
+![](img/numeric-representation.png)
 
 ---
 
-## Numeric Representation (Details
+## Numeric Representation (Details)
 
 ```xml
 
@@ -238,15 +238,67 @@ Codes are used in two ways as traditional code lists and in statistical classifi
 </NumericDomain>
 
 ```
+---
+
+## Date / Time Representation Example
+
+![](img/question-item-example-date-time.png)
 
 ---
 
 ## Date / Time Representation
 
+![](img/date-time-representation.png)
+
+---
+
+## Date / Time Representation (Detail)
+
+```xml
+
+<QuestionText audienceLanguage="en-GB">
+  <LiteralText><Text>Please write in your date of birth.
+  </Text></LiteralText>
+</QuestionText>
+<DateTimeDomain blankIsMissingValue="false">
+  <r:DateTypeCode controlledVocabularyVersionID="1.0">Date</r:DateTypeCode>
+    <r:Label>
+      <r:Content xml:lang="en-GB">Date of birth</r:Content>
+    </r:Label>
+</DateTimeDomain>
+
+```
+
+---
+
+## Question Item Text Example
+
+![](img/question-item-example-text.png)
+
 ---
 
 ## Text Representation
 
+![](img/text-representation.png)
+
+---
+
+## Text Representation (Detail)
+
+```xml
+
+<QuestionText audienceLanguage="en-GB">
+  <LiteralText><Text>
+    Finally, what job would you like to do once you leave school or finish your full-time education?
+  </Text></LiteralText>
+</QuestionText>
+<TextDomain blankIsMissingValue="false" maxLength="255">
+  <r:Label>
+    <r:Content xml:lang="en-GB">Generic text</r:Content>
+  </r:Label>
+</TextDomain>
+
+```
 ---
 
 ## Acknowledgements
