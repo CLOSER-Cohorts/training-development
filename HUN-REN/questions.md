@@ -9,6 +9,8 @@ date: March 8, 2025
 - What is a question
 - Question vs Variable
 - DDI-Codebook vs DDI-Lifecycle
+- Question Item
+- Response Domains
 
 ---
 
