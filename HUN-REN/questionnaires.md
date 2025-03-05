@@ -104,7 +104,7 @@ Nearly there, there are three types of question supported in DDI, QuestionItem, 
 ![](img/question-item-relationships.png)
 
 :::
-There are a number of things here which we should focus on
+This is covered in more detail in the questions slides
 :::
 
 ---
