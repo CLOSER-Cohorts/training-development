@@ -13,22 +13,7 @@ date: March 8, 2025
 ---
 
 
-## DDI Items Related to Questions
 
-| Coverage      | DDI-C    | DDI-L             |
-|---------------|----------|-------------------|
-| Questionnaire |          | Instrument        |
-| Question Text | qstLit   | QuestionText      |
-| Question      | qstn     | QuestionItem      |
-|               |          | QuestionGrid      |
-|               |          | QuestionBlock     |
-| Measurement   |          | MeasurementItem   |
-| Instruction   | preQTxt  | Instruction       |
-|               | postQTxt |                   |
-
-DDI-Codebook has limitations for our purposes, so we will just be talking about DDI-Lifecycle
-
----
 
 ## Questionnare structure
 
