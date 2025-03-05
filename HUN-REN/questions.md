@@ -303,7 +303,10 @@ Codes are used in two ways as traditional code lists and in statistical classifi
 ```
 ---
 
-## Acknowledgements
+## Acknowledgements and Sources
+
+- Hayley Mills, (2021) DDI Lifecyle: Questions and Instruments https://docs.google.com/presentation/d/1wZ03TVoVMv-TWI9rMD-lWUh6XhF233ws/edit#slide=id.p1
+- DDI Alliance, DDI Model  https://ddialliance.github.io/ddimodel-web/
 
 
 
