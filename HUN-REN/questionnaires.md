@@ -12,9 +12,6 @@ date: March 8, 2025
 
 ---
 
-
-
-
 ## Questionnare structure
 
 ![](img/hun-ren-simple-questionnaire.png)
@@ -109,46 +106,6 @@ Nearly there, there are three types of question supported in DDI, QuestionItem, 
 :::
 There are a number of things here which we should focus on
 :::
-
----
-
-## DDI QuestionItem Elements
-
-- Question Item Name (e.g. A1, WORKTYPE)
-- Question Text (e.g. What is you name)
-- ResponseCardinality (e.g. 1, 2, all)
-- ResponseDomain (e.g. CodeList, Text, numeric)
-- StructuredMixedReponseDomain (e.g CodeList + Text)
-
-:::
-
-I'm afraid we are not finished .... the response domain is another whole set of relationships
-:::
-
----
-
-## DDI Response Domain Representations
-
-![](img/representations.png)
-
-:::
-There are a wide range of possible representations for responses available
-:::
-
-----
-
-## DDI QuestionItem Relationships
-
-![](img/question-item-relationships.png)
-
-----
-
-## DDI QuestionItem Key Relationships
-
-- Instruction - This is a seperate element from Question Text 
-- Concept - a questionItem can be directly associated with a specific or multiple concepts
-- QuestionGroup - a way of creating groups of questions by some other typology
-- QuestionScheme - a storage container for question items - used for manageing them
 
 ---
 
