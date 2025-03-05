@@ -97,11 +97,10 @@ QuestionItem type brings togather all the elements needed to describe, implement
 
 ## Question Item elements (Management)
 
-- QuestionScheme
+- QuestionScheme (all QuestionItems 'live' in a QuestionSheme, there can be multiple)
 - RepresentedVariable (definition of variable from output)
 - ResponseDomainReference (reference to another place where the ResponseDomain is held)
 - InterviewerInstructionReference
-
 
 ---
 
@@ -119,6 +118,46 @@ QuestionItem type brings togather all the elements needed to describe, implement
 
 ---
 
+## Question Item Example
+
+![](img/question-item-example.png)
+
+:::
+This shows a question item from Understanding Society, Question name, text, representation type and cardinality (selection style)
+:::
+
+---
+
+## Question Item Text language
+
+```xml
+
+<QuestionItemName>
+  <r:String xml:lang="en-GB">qi_68</r:String>
+</QuestionItemName>
+<r:Label>
+  <r:Content xml:lang="en-GB">qi 68</r:Content>
+</r:Label>
+<QuestionText audienceLanguage="en-GB">
+  <LiteralText>
+    <Text>How interested are you in politics?</Text>
+   </LiteralText>
+</QuestionText>
+<QuestionText audienceLanguage="hu-HU">
+  <LiteralText>
+    <Text>Mennyire érdekli a politika?</Text>
+   </LiteralText>
+</QuestionText>
+
+```
+:::
+Text in the same item can be repeated in different language for both content (name and label) and the text, which audience
+- audienceLanguage="fr-FR">Dans quelle mesure êtes-vous intéressé par la politique
+:::
+
+---
+
+
 ## Representation Types
 
 - CodeRepresentation
@@ -133,9 +172,36 @@ QuestionItem type brings togather all the elements needed to describe, implement
 
 ## Code Representation
 
+![](img/code-representation.png)
 
+Codes are used in two ways as traditional code lists and in statistical classifications which can be more complex e.g. hierachical, levels etc
 
 ---
+
+## Code List 
+
+![](img/code-list.png)
+
+---
+
+
+## Code List (Detail)
+
+```xml
+<CodeList>
+  <Code isUniversallyUnique="true">
+  <r:URN>urn:ddi:uk.iser.ukhls:adc21c8d-40bb-4104-83bb-c5709019a385:1</r:URN>
+    <r:CategoryReference>
+      <r:Agency>uk.iser.ukhls</r:Agency>
+      <r:ID>6358d76d-165d-4c93-b736-dfb3d5f21535</r:ID>
+      <r:Version>1</r:Version>
+      <r:TypeOfObject>Category</r:TypeOfObject>
+    </r:CategoryReference>
+    <r:Value>3</r:Value>
+  </Code>
+</CodeList>
+
+```
 
 ## Numeric Representation
 
