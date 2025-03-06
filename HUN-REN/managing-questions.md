@@ -75,13 +75,10 @@ You can create multiple schemes by a theme, or other categorisation to suit your
 Since a QuestionItem has a URN moving it between schemes does not affect it, so you can have a generic scheme and move it later. 
 This might be useful if you want to allow only certain users to manage a specific type of question. 
 
-## Generic DDI structures (
-Q — QG
-QGs are useful for adhoc grouping. Groups can reference a concept. This is a more flexible way of managing question-concept relationships than assigning a concept reference to the QI
+---
 
-Agency
+## Generic DDI structures (Question Groups)
 
+QustionGroups are useful for adhoc grouping. Groups can reference a concept. This is a more flexible way of managing question-concept relationships than assigning a concept reference to the QuestionItem directly.
 
-
-
-
+---
