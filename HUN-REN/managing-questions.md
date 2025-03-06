@@ -28,7 +28,9 @@ urn:ddi:agency:id:version
 
 ```
 
-This can be used to identify all items from a specific agency eg to differentiate between different data collectors. 
+This can be used to identify all items from a specific agency e.g. to differentiate between different data collectors. 
+
+---
 
 ## Generic DDI structures (basedOn)
 
@@ -58,16 +60,22 @@ Powerful way of managing questions in a multi language environment. It does howe
 
 ---
 
-Q — concept
+## Generic DDI structures (Concept)
 
-Can reference a concept ideally through an explicit PID
+QuestionItems ccan reference a concept ideally through an explicit persistent identifier, this can be any PID in a vocabulary or concept scheme.
 
-Q — scheme
-QuestionItems are by default in a QS
+---
+
+## Generic DDI structures (Schemes)
+
+QuestionItems are by default in a QuestionScheme. You cannot have have QuestionItems 'free floating'.
+
 You can create multiple schemes by a theme, or other categorisation to suit your purposes. 
-Since a QI has a PID moving it between schemes does not affect it, so you can have a generic scheme and move it later. 
+
+Since a QuestionItem has a URN moving it between schemes does not affect it, so you can have a generic scheme and move it later. 
 This might be useful if you want to allow only certain users to manage a specific type of question. 
 
+## Generic DDI structures (
 Q — QG
 QGs are useful for adhoc grouping. Groups can reference a concept. This is a more flexible way of managing question-concept relationships than assigning a concept reference to the QI
 
