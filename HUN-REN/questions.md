@@ -66,6 +66,16 @@ DDI-Codebook has limitations for our purposes, so we will just be talking about 
 
 ---
 
+## Questions in DDI-Lifecycle
+
+![](img/data-provenance.png)
+
+:::
+Questions
+:::
+
+---
+
 ## DDI-Lifecycle Question Types
 
 There are three quesstion structures in DDI-Lifecycle
