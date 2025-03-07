@@ -14,16 +14,23 @@ Questions have the following elements to extract semantics from:
 - Question Text
 - Response Domain
   - CodeList
+  - Numeric
+  - DateTime
+  - Text 
 
-Numeric / DateTime / Text Response domains are effectively empty.
-
-But the strength of structuring a question in this way, can work against you in the real world.
+::: notes
+Numeric, DateTime and Text are limited in this regard
+:::
 
 ---
 
 ## Question Content Types
 
-A question is intended to determine a specific concept from a respondent. The concept being determined is restricted within a set of possible options, called a response domain which can be conceived of as being sub-concepts. This may be represented in different ways, illustrated below.
+A question is intended to determine a specific concept from a respondent. 
+
+The concept being determined is restricted within a set of possible options, called a response domain which can be conceived of as being sub-concepts. 
+
+This may be represented in different ways, illustrated below.
 
 ![](img/question-typology.png)
 
@@ -44,9 +51,11 @@ A question text describes the concept and the response domain (in these cases a 
 
 **Concept**: Job
 
-**Sub Concepts**: self-employed, manage, etc
+**Sub Concepts**: self-employed, manager, etc
 
+::: notes
 We need to be able to utilise both the Question Text and Response Domain
+:::
 
 ---
 
@@ -67,7 +76,9 @@ A question text where the concept is defined in the text, and the code list acts
 
 **Sub Concepts**: none
 
+::: notes
 We are only able to utilise both the Question Text
+:::
 
 ---
 
@@ -87,7 +98,9 @@ A question text where the concept is defined in the text, along with a sub-conce
 
 **Sub Concepts**: dog, cat
 
+::: notes
 This is a bit more problematic, as the sub-concepts are 'spread out' over two different questions
+:::
 
 ---
 
@@ -108,6 +121,9 @@ This is a bit more problematic, as the sub-concepts are 'spread out' over two di
 
 ## Questions with universes
 
+It is often the case that there will be audience specific text which can 'throw' a ML model
+
 ![](img/question-universe.png)
 
+---
 
