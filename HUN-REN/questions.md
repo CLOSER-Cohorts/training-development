@@ -70,7 +70,7 @@ DDI-Codebook has limitations for our purposes, so we will just be talking about 
 
 ![](img/data-provenance.png)
 
-:::
+::: notes
 Questions
 :::
 
@@ -85,7 +85,7 @@ There are three quesstion structures in DDI-Lifecycle
 - QuestionBlock
   - QuestionItem
 
- :::
+ ::: notes
  QuestionBlocks are a collection of QuestionItems, we wil concentrate on QuestionItems.
  :::
 
@@ -134,7 +134,7 @@ QuestionItem type brings togather all the elements needed to describe, implement
 
 ![](img/question-item-example-code-list.png)
 
-:::
+::: notes
 This shows a question item from Understanding Society, Question name, text, representation type and cardinality (selection style)
 :::
 
@@ -163,7 +163,7 @@ This shows a question item from Understanding Society, Question name, text, repr
 
 ```
 
-:::
+::: notes
 Text in the same item can be repeated in different language for both content (name and label) and the text, which audience
 - audienceLanguage="fr-FR">Dans quelle mesure êtes-vous intéressé par la politique
 :::
@@ -187,7 +187,7 @@ Text in the same item can be repeated in different language for both content (na
 
 ![](img/code-representation.png)
 
-:::
+::: notes
 Codes are used in two ways as traditional code lists and in statistical classifications which can be more complex e.g. heirachical, levels etc
 :::
 
@@ -318,8 +318,8 @@ Codes are used in two ways as traditional code lists and in statistical classifi
 
 ## Acknowledgements and Sources
 
-- Hayley Mills, (2021) DDI Lifecyle: Questions and Instruments https://docs.google.com/presentation/d/1wZ03TVoVMv-TWI9rMD-lWUh6XhF233ws/edit#slide=id.p1
-- DDI Alliance, DDI Model  https://ddialliance.github.io/ddimodel-web/
+- Hayley Mills, (2021) DDI Lifecyle: Questions and Instruments (https://docs.google.com/presentation/d/1wZ03TVoVMv-TWI9rMD-lWUh6XhF233ws/edit#slide=id.p1)
+- DDI Alliance, DDI Model (https://ddialliance.github.io/ddimodel-web/)
 
 
 
