@@ -60,7 +60,7 @@ date: March 8, 2025
 | Instruction    | preQTxt  | Instruction       |
 |                | postQTxt |                   |
 | Flow / Logic   |          | ControlConstructs |
-
+|                |          |                   |
 
 DDI-Codebook has limitations for our purposes, so we will just be talking about DDI-Lifecycle
 
@@ -162,6 +162,7 @@ This shows a question item from Understanding Society, Question name, text, repr
 </QuestionText>
 
 ```
+
 :::
 Text in the same item can be repeated in different language for both content (name and label) and the text, which audience
 - audienceLanguage="fr-FR">Dans quelle mesure êtes-vous intéressé par la politique
@@ -186,7 +187,9 @@ Text in the same item can be repeated in different language for both content (na
 
 ![](img/code-representation.png)
 
-Codes are used in two ways as traditional code lists and in statistical classifications which can be more complex e.g. hierachical, levels etc
+:::
+Codes are used in two ways as traditional code lists and in statistical classifications which can be more complex e.g. heirachical, levels etc
+:::
 
 ---
 
