@@ -56,7 +56,10 @@ This is also useful if you have a set of translated questions as separate questi
    </LiteralText>
 </QuestionText>
 ```
+
+::: notes
 Powerful way of managing questions in a multi language environment. It does however require that the QuestionItem is in a single Agency
+:::
 
 ---
 
