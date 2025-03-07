@@ -71,7 +71,7 @@ DDI-Codebook has limitations for our purposes, so we will just be talking about 
 ![](img/data-provenance.png)
 
 ::: notes
-Questions
+Questions are a central part of the way in which we bring together a concept and its use as an 'instrument' of social enquiry.
 :::
 
 ---
