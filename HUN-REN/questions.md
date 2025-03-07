@@ -78,12 +78,13 @@ Questions are a central part of the way in which we bring together a concept and
 
 ## DDI-Lifecycle Question Types
 
-There are three quesstion structures in DDI-Lifecycle
+There are three question structures in DDI-Lifecycle
 
 - QuestionItem
 - QuestionGrid
 - QuestionBlock
   - QuestionItem
+
 
  ::: notes
  QuestionBlocks are a collection of QuestionItems, we wil concentrate on QuestionItems.
@@ -93,7 +94,7 @@ There are three quesstion structures in DDI-Lifecycle
 
 ## DDI Question Item
 
-QuestionItem type brings togather all the elements needed to describe, implement and manage a question
+QuestionItem type brings together all the elements needed to describe, implement and manage a question
 
 ![](img/question-item-relationships.png)
 
@@ -120,14 +121,13 @@ QuestionItem type brings togather all the elements needed to describe, implement
 ## Question Item elements (Describing)
 
 - QuestionItemName, Label, Description (ISO 11179)
-  - QuestionItemName (e.g. A1, WORKTYPE)
+  - e.g. A1, WORKTYPE
 - QuestionIntent, Concept, QuestionGroup (Semantics)
 - Question Text (e.g. What is your name)
-- QuestionText (The question, allows insertion of contextual information)
 - Representation
   - ResponseDomain (e.g. CodeList, Text, numeric)
   - StructuredMixedReponseDomain (e.g CodeList + Text)
-- ExternalInterviewerReference, InterviewerInstructionReference  (to where they are held)
+- ExternalInterviewerReference, InterviewerInstructionReference
 
 ---
 
