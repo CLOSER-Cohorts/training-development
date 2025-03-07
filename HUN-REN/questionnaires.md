@@ -46,7 +46,7 @@ Instruments have a relationship to other instruments (group/scheme), a data coll
 
 ![](img/instrument-high-level.png)
 
-:::
+::: notes
 Just looking at the instrument object, common things to describe a questionnaire, name, label, description but other than that NOTHING that looks familiar
 This is becuase the actual questionnaire is an abstract object called a **ControlConstruct** which is a wrapper for all the things contained in an actual questionnaire
 :::
@@ -58,7 +58,7 @@ This is becuase the actual questionnaire is an abstract object called a **Contro
 
 ![](img/control-construct.png)
 
-:::
+::: notes
 This acts as a set of containers for the things we actually want to be asking and the things that control the way in which we implement it. 
 Again, not many things here we are familiar with!
 Typically a questionnaire starts with a sequence
@@ -70,7 +70,7 @@ Typically a questionnaire starts with a sequence
 
 ![](img/sequence.png)
 
-:::
+::: notes
 So we can see here that a sequence is a way of controlling the flow of a questionnaire Sequence contains Control Constructs.
 A special construct is the QuestionConstruct 
 
@@ -82,7 +82,7 @@ A special construct is the QuestionConstruct
 
 ![](img/question-construct.png)
 
-:::
+::: notes
 Finally, we have something we can recognise a Question!
 And some things we might want to associate with it such as a response unit or analysis unit
 :::
@@ -93,7 +93,7 @@ And some things we might want to associate with it such as a response unit or an
 
 ![](img/question.png)
 
-:::
+::: notes
 Nearly there, there are three types of question supported in DDI, QuestionItem, QuestionBlock and QuestionGrid, so Question act as ANOTHER wrapper, pointing to a ControlConstruct .... which brings us to a QuestionItem
 :::
 
@@ -103,7 +103,7 @@ Nearly there, there are three types of question supported in DDI, QuestionItem, 
 
 ![](img/question-item-relationships.png)
 
-:::
+::: notes
 This is covered in more detail in the questions slides
 :::
 
