@@ -22,8 +22,9 @@ DDI has a number of additional structures which can also be used to manage and h
 
 Each DDI item has a URN (a persistent identifier) which can be used to assist in management
 
+The strucutre of a URN is:  agency:id:version
+
 ```
-urn:ddi:agency:id:version
 <URN>urn:ddi:uk.iser.ukhls:2f1e27ba-e2e9-4bfe-a814-fa54809a77c9:1</urn>
 
 ```
@@ -38,7 +39,9 @@ If you want to specify that one question is based on another e.g. there was an a
 
 This is also useful if you have a set of translated questions as separate question items that you want to associate with each other. 
 
-**NB** this is a pair-wise operation so can be cumbersome to implement.
+::: notes
+this is a pair-wise operation so can be cumbersome to implement.
+:::
 
 ---
 
@@ -65,7 +68,7 @@ Powerful way of managing questions in a multi language environment. It does howe
 
 ## Generic DDI structures (Concept)
 
-QuestionItems ccan reference a concept ideally through an explicit persistent identifier, this can be any PID in a vocabulary or concept scheme.
+QuestionItems can reference a concept ideally through an explicit persistent identifier, this can be any PID in a vocabulary or concept scheme.
 
 ---
 
@@ -76,6 +79,7 @@ QuestionItems are by default in a QuestionScheme. You cannot have have QuestionI
 You can create multiple schemes by a theme, or other categorisation to suit your purposes. 
 
 Since a QuestionItem has a URN moving it between schemes does not affect it, so you can have a generic scheme and move it later. 
+
 This might be useful if you want to allow only certain users to manage a specific type of question. 
 
 ---
