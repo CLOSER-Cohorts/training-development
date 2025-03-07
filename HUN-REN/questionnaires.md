@@ -16,7 +16,7 @@ date: March 8, 2025
 
 ![](img/hun-ren-simple-questionnaire.png)
 
-:::
+::: notes
 This is possibly the simplest questionnaire imaginable, Title, some information about what is going to do, something to tell the respondent the sort of information in each clock of questions, a question with some response options 
 a filter to ask quesitons only of specific universe of participantes,and another question with a different type of response option
 :::
@@ -26,7 +26,9 @@ a filter to ask quesitons only of specific universe of participantes,and another
 
 ## Questionnare structures and DDI
 
-DDI Lifecycle allows the **specification**, **management of the questionnaire components**, **implementation**, and subsequent **description** of these componente to their **relationship** to the data generated from the questionnaire. It is necessarily complex as a result of its multiple roles.
+DDI Lifecycle allows the **specification**, **management of the questionnaire components**, **implementation**, and subsequent **description** of these components to their **relationship** to the data generated from the questionnaire. 
+
+It is necessarily complex as a result of its multiple roles.
 
 
 ---
@@ -35,7 +37,7 @@ DDI Lifecycle allows the **specification**, **management of the questionnaire co
 
 ![](img/instrument.png)
 
-:::
+::: notes
 Instruments have a relationship to other instruments (group/scheme), a data collection, types of collection and development activities
 :::
 
