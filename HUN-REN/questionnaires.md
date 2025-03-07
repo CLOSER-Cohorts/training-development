@@ -12,7 +12,7 @@ date: March 8, 2025
 
 ---
 
-## Questionnare structure
+## Questionnaire structure
 
 This is possibly the simplest questionnaire imaginable, Title, some information about what is going to do, something to tell the respondent the sort of information in each clock of questions, a question with some response options, a filter to ask quesitons only of specific universe of participantes,and another question with a different type of response option
 
@@ -24,7 +24,7 @@ This is possibly the simplest questionnaire imaginable, Title, some information 
 
 DDI Lifecycle allows the **specification**, **management of the questionnaire components**, **implementation**, and subsequent **description** of these components to their **relationship** to the data generated from the questionnaire. 
 
-It is necessarily complex as a result of its multiple roles.
+It is necessarily complex as a result of these multiple roles.
 
 
 ---
