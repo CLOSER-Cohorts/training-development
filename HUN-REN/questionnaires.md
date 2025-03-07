@@ -14,13 +14,9 @@ date: March 8, 2025
 
 ## Questionnare structure
 
+This is possibly the simplest questionnaire imaginable, Title, some information about what is going to do, something to tell the respondent the sort of information in each clock of questions, a question with some response options, a filter to ask quesitons only of specific universe of participantes,and another question with a different type of response option
+
 ![](img/hun-ren-simple-questionnaire.png)
-
-::: notes
-This is possibly the simplest questionnaire imaginable, Title, some information about what is going to do, something to tell the respondent the sort of information in each clock of questions, a question with some response options 
-a filter to ask quesitons only of specific universe of participantes,and another question with a different type of response option
-:::
-
 
 ---
 
