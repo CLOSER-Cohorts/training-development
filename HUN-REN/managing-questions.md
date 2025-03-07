@@ -6,6 +6,11 @@ date: March 8, 2025
 
 ## Outline
 
+- Agency
+- basedOn
+- Language
+- Concept
+- 
 ---
 
 ## Overview
@@ -74,7 +79,7 @@ QuestionItems can reference a concept ideally through an explicit persistent ide
 
 ## Generic DDI structures (Schemes)
 
-QuestionItems are by default in a QuestionScheme. You cannot have have QuestionItems 'free floating'.
+QuestionItems are by default in a QuestionScheme. You cannot have QuestionItems 'free floating'.
 
 You can create multiple schemes by a theme, or other categorisation to suit your purposes. 
 
@@ -84,8 +89,8 @@ This might be useful if you want to allow only certain users to manage a specifi
 
 ---
 
-## Generic DDI structures (Question Groups)
+## Generic DDI structures (Groups)
 
-QustionGroups are useful for adhoc grouping. Groups can reference a concept. This is a more flexible way of managing question-concept relationships than assigning a concept reference to the QuestionItem directly.
+QuestionGroups are useful for adhoc grouping. Groups can reference a concept. This is a more flexible way of managing question-concept relationships than assigning a concept reference to the QuestionItem directly.
 
 ---
