@@ -89,6 +89,8 @@ There are three quesstion structures in DDI-Lifecycle
  QuestionBlocks are a collection of QuestionItems, we wil concentrate on QuestionItems.
  :::
 
+ ---
+
 ## DDI Question Item
 
 QuestionItem type brings togather all the elements needed to describe, implement and manage a question
@@ -103,7 +105,6 @@ QuestionItem type brings togather all the elements needed to describe, implement
 - External Aid (e.g. a card with response options)
 - EstimatedSecondsResponseTime - for a timed question
 - ResponseCardinality - number of allowed responses e.g. tick all that apply, max 2/8 etc)
-
 
 ---
 
@@ -147,9 +148,6 @@ This shows a question item from Understanding Society, Question name, text, repr
 <QuestionItemName>
   <r:String xml:lang="en-GB">qi_68</r:String>
 </QuestionItemName>
-<r:Label>
-  <r:Content xml:lang="en-GB">qi 68</r:Content>
-</r:Label>
 <QuestionText audienceLanguage="en-GB">
   <LiteralText>
     <Text>How interested are you in politics?</Text>
@@ -207,9 +205,6 @@ Codes are used in two ways as traditional code lists and in statistical classifi
   <Code isUniversallyUnique="true">
   <r:URN>urn:ddi:uk.iser.ukhls:adc21c8d-40bb-4104-83bb-c5709019a385:1</r:URN>
     <r:CategoryReference>
-      <r:Agency>uk.iser.ukhls</r:Agency>
-      <r:ID>6358d76d-165d-4c93-b736-dfb3d5f21535</r:ID>
-      <r:Version>1</r:Version>
       <r:TypeOfObject>Category</r:TypeOfObject>
     </r:CategoryReference>
     <r:Value>3</r:Value>
@@ -237,9 +232,9 @@ Codes are used in two ways as traditional code lists and in statistical classifi
 ```xml
 
 <QuestionText audienceLanguage="en-GB">
-  <LiteralText> <Text>
-   How many hours paid work did you do last week? If you have more than one job please write in the total hours worked at all of them.
-  </Text> </LiteralText>
+  <LiteralText>
+    <Text>How many hours paid work did you do last week?</Text>
+  </LiteralText>
 </QuestionText>
 <NumericDomain blankIsMissingValue="false">
   <r:NumberRange>
@@ -303,9 +298,11 @@ Codes are used in two ways as traditional code lists and in statistical classifi
 ```xml
 
 <QuestionText audienceLanguage="en-GB">
-  <LiteralText><Text>
-    Finally, what job would you like to do once you leave school or finish your full-time education?
-  </Text></LiteralText>
+  <LiteralText>
+    <Text>
+      Finally, what job would you like to do once you leave school?
+    </Text>
+  </LiteralText>
 </QuestionText>
 <TextDomain blankIsMissingValue="false" maxLength="255">
   <r:Label>
@@ -318,8 +315,8 @@ Codes are used in two ways as traditional code lists and in statistical classifi
 
 ## Acknowledgements and Sources
 
-- Hayley Mills, (2021) DDI Lifecyle: Questions and Instruments (https://docs.google.com/presentation/d/1wZ03TVoVMv-TWI9rMD-lWUh6XhF233ws/edit#slide=id.p1)
-- DDI Alliance, DDI Model (https://ddialliance.github.io/ddimodel-web/)
+- Hayley Mills (2021) DDI Lifecyle: Questions and Instruments (https://docs.google.com/presentation/d/1wZ03TVoVMv-TWI9rMD-lWUh6XhF233ws/edit#slide=id.p1)
+- DDI Alliance (2025) DDI Model (https://ddialliance.github.io/ddimodel-web/)
 
 
 
