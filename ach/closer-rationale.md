@@ -1,7 +1,7 @@
 ---
-title: What is Data?
+title: CLOSER Metadata Project
 author: Jon Johnson
-date: September 27, 2024
+date: March 12, 2025
 ---
 
 ## Vision
