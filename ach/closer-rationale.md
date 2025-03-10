@@ -76,5 +76,40 @@ Uses an establisjed community metadata standard (DDI-LIfecycle)
   - the data collected, including summary statistics for each variable to assess quality and coverage,
   - its source questions or measurements and the context in which it was asked.
 
+---
+
+## Study Capacity
+
+There is no contract with studies, there is an MOU, but that is not binding.
+
+- Discovery of data
+- It is not a capability the studies can sustain themselves
+- Adds value which they can repurpose
+- Act as ambassadors for the studies more broadly
+  
+---
+
+## Audience
+
+Primary audience are users wanting to find out what data is available, to be able to assemble the information to create a research proposal, or to find provenance information unavailable elsewhere
+
+- question provenance
+- data which is comparable within and between studies
+
+---
+
+## Users
+
+- Users: 2500 / month
+- Session: 3000 / month
+- View: 8,000 / month
+
+---
+
+## Coverage of UK LPS
+
+![](img/data-audit-coverage.png)
+
+
 
 
