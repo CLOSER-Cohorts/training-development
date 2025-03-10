@@ -47,3 +47,34 @@ date: September 27, 2024
 - To leverage structural and semantic metadata standards to support national and international interoperability of UK longitudinal population data.
 - To encourage innovative data management through better information 
 - To enable reproducible and transparent research 
+
+---
+
+## CLOSER Discovery (F)
+
+CLOSER Discovery was developed in collaboration with our studies to be a research tool which streamlines the process of exploring longitudinal population study research data. It empowers researchers to confidently navigate these large and complex data collections, saving valuable time with minimal recourse to the studies or cumbersome documentation.
+
+---
+
+## CLOSER Discovery (A)
+
+Lists allow you to curate the data or questions you may be interested e.g. to inform a research proposal, data management plan, to share with collaborators or as part of a data access request
+
+---
+
+## CLOSER Discovery (I)
+
+A consistent vocabulary is used across the available data for discovery of variables, questions, life stage, mode and types of data
+
+Uses an establisjed community metadata standard (DDI-LIfecycle)
+
+---
+
+## CLOSER Discovery (R)
+
+- CLOSER Discovery provides detailed information about
+  - the data collected, including summary statistics for each variable to assess quality and coverage,
+  - its source questions or measurements and the context in which it was asked.
+
+
+
