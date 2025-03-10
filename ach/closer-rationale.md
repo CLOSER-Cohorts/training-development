@@ -110,6 +110,16 @@ Primary audience are users wanting to find out what data is available, to be abl
 
 ![](img/data-audit-coverage.png)
 
+---
 
+## CLOSER Discovery Studies Criteria
 
+- Capacity at CLOSER to support studies
+- Commitment to provide minimum metadata
+- Alignment of study with existing studies in Discovery
+
+- Funder expectations
+- Expected ROI
+
+---
 
