@@ -1,10 +1,12 @@
 ---
-title: CLOSER Discovery
+title: CLOSER / ACH Workshop
 author: Jon Johnson
 date: March 12, 2025
 ---
 
 # Agenda
+
+## Day 1
 
 1. Introductions
 2. Overview
@@ -15,6 +17,11 @@ date: March 12, 2025
 5. Data Sharing
 6. Interoperability
 7. Metadata Manangement
+
+---
+
+## Day 2
+
 8. Metadata Enhancement
   - Controlled vocabularies
   - Harmonisation
