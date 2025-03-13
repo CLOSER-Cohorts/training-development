@@ -55,7 +55,7 @@ The quality of the extraction is the primary driver of poor classification
 ![](img/questionnaire-kg-extraction.png)
 
 ::: notes
-We can mimic the inherent structure of DDI Lifecycle schema through a simplifieed KG. The break-through using this approach is that is fundamentally language neutral.
+We can mimic the inherent structure of DDI Lifecycle schema through a simplified KG. The break-through using this approach is that is fundamentally language neutral.
 
 :::
 
