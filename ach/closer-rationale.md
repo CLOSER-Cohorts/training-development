@@ -66,7 +66,7 @@ Lists allow you to curate the data or questions you may be interested e.g. to in
 
 A consistent vocabulary is used across the available data for discovery of variables, questions, life stage, mode and types of data
 
-Uses an establisjed community metadata standard (DDI-LIfecycle)
+Uses an established community metadata standard (DDI-LIfecycle)
 
 ---
 
