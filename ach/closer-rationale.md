@@ -80,7 +80,7 @@ Uses an established community metadata standard (DDI-LIfecycle)
 
 ## Study Capacity
 
-There is no contract with studies, there is an MOU, but that is not binding.
+There is no contract with studies, there is an Memorandum Of Understanding, but that is not binding.
 
 - Discovery of data
 - It is not a capability the studies can sustain themselves
@@ -117,7 +117,6 @@ Primary audience are users wanting to find out what data is available, to be abl
 - Capacity at CLOSER to support studies
 - Commitment to provide minimum metadata
 - Alignment of study with existing studies in Discovery
-
 - Funder expectations
 - Expected ROI
 
