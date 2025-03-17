@@ -16,4 +16,4 @@ jobs:
       - uses: actions/upload-artifact@v4
         with:
           name: index.html
-          path: output/index.html
+          path: index.html
