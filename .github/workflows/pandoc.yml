@@ -11,7 +11,7 @@ jobs:
         with:
           args: >-  # allows you to break string into multiple lines
             --standalone
-            --output=index.html
+            --output=output/index.html
             input.txt
       - uses: actions/upload-artifact@v4
         with:
