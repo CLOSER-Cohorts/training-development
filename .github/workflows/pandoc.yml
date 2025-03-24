@@ -12,7 +12,6 @@ jobs:
           args: >-  # allows you to break string into multiple lines
             --standalone
             --output=what-is-data.pptx
-            introduction/img/concept-measurement-data.png
             introduction/what-is-data.md
       - uses: actions/upload-artifact@v4
         with:
