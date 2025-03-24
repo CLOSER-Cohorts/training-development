@@ -7,7 +7,7 @@ jobs:
     runs-on: ubuntu-22.04
     steps:
       - uses: actions/checkout@v3
-      - run: iconv -f latin1 -t UTF-8 introduction/img/concept-measurement-data.png > introduction/img/concept-measurement-data2.png
+      - run: iconv -f latin1 -t UTF-8 introduction/img/concept-measurement-data.png > concept-measurement-data2.png
       - uses: docker://pandoc/core:3.5
         with:
           args: >-  # allows you to break string into multiple lines 
