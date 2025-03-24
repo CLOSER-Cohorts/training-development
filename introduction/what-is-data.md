@@ -70,8 +70,6 @@ The principles covered in the rest of this course apply to most types of data
 
 ## Data as a research object
 
-![](img/concept-measurement-data.png "Alt text here")
-
 
 
 ::: notes
@@ -82,8 +80,6 @@ Through this course we will use the terms, Concept, Measure and Data
 ---
 
 ## Data as a research object (Example)
-
-![](img/concept-measurement-data2.png "Alt text here")
 
 
 
@@ -96,9 +92,6 @@ Represented as an interger (whole years)
 ---
 
 ## Data as Research object (Terminology)
-
-![](img/concept-measurement-data-explained.png "Alt text here")
-
 
 
 ::: notes
