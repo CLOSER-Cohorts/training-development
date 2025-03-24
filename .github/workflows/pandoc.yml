@@ -6,14 +6,13 @@ jobs:
   convert_via_pandoc:
     runs-on: ubuntu-22.04
     steps:
-      - run: echo "foo" > input.txt  # create an example file
       - uses: docker://pandoc/core:3.5
         with:
           args: >-  # allows you to break string into multiple lines
             --standalone
-            --output=index.html
-            input.txt
+            --output=what-is-data.ppt
+            introduction/what-is-data.md
       - uses: actions/upload-artifact@v4
         with:
-          name: index.html
-          path: index.html
+          name: what-is-data.md
+          path: introduction/what-is-data.md
