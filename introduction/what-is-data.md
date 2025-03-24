@@ -70,7 +70,7 @@ The principles covered in the rest of this course apply to most types of data
 
 ## Data as a research object
 
-![](img/concept-measurement-data2.png "Alt text here")
+![](introduction/img/concept-measurement-data2.png "Alt text here")
 
 
 
