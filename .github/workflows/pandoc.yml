@@ -3,11 +3,11 @@ name: Long Usage
 on: push
 
 jobs:
-  defaults:
-    run:
-      working-directory: introduction
   convert_via_pandoc:
     runs-on: ubuntu-22.04
+    defaults:
+    run:
+      working-directory: introduction
     steps:
       - uses: actions/checkout@v3
       - uses: docker://pandoc/core:3.5
