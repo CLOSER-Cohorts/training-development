@@ -83,7 +83,7 @@ Through this course we will use the terms, Concept, Measure and Data
 
 ## Data as a research object (Example)
 
-![](introduction/img/concept-measurement-data2.png "Alt text here")
+![](/introduction/img/concept-measurement-data2.png "Alt text here")
 
 ::: notes
 Concept of Age
@@ -95,7 +95,7 @@ Represented as an interger (whole years)
 
 ## Data as Research object (Terminology)
 
-![](img/concept-measurement-data-explained.png "Alt text here")
+![](/introduction/img/concept-measurement-data-explained.png "Alt text here")
 
 ::: notes
 need some additional text to help

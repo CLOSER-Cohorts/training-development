@@ -7,16 +7,13 @@ jobs:
     runs-on: ubuntu-22.04
     steps:
       - uses: actions/checkout@v3
-      - name: chdir
-        working-directory: ./introduction
-        run: ls
       - uses: docker://pandoc/core:3.5
         with:
           args: >-  # allows you to break string into multiple lines 
             --standalone
             --reference-doc=../templates/closer-reference.pptx
             --output=what-is-data.pptx
-            what-is-data.md
+            introduction/what-is-data.md
       - uses: actions/upload-artifact@v4
         with:
           name: what-is-data.pptx
