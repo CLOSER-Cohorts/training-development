@@ -8,8 +8,8 @@ jobs:
     steps:
       - uses: actions/checkout@v3
       - uses: docker://pandoc/core:3.5
+        working-directory: ./introduction
         with:
-          working-directory: ./introduction
           args: >-  # allows you to break string into multiple lines 
             --standalone
             --reference-doc=templates/closer-reference.pptx
