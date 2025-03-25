@@ -9,6 +9,7 @@ jobs:
       - uses: actions/checkout@v3
       - uses: docker://pandoc/core:3.5
         with:
+          run: cd introduction
           args: >-  # allows you to break string into multiple lines 
             --standalone
             --reference-doc=templates/closer-reference.pptx
