@@ -7,9 +7,10 @@ jobs:
     runs-on: ubuntu-22.04
     steps:
       - uses: actions/checkout@v3
-      - uses: docker://pandoc/core:3.5
-        name: Set working directory
+      - name: Set working directory
         working-directory: ./introduction
+        run: ls
+      - uses: docker://pandoc/core:3.5
         with:
           args: >-  # allows you to break string into multiple lines 
             --standalone
