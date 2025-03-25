@@ -5,11 +5,11 @@ on: push
 jobs:
   convert_via_pandoc:
     runs-on: ubuntu-22.04
-    working-directory: ./introduction
     steps:
       - uses: actions/checkout@v3
       - uses: docker://pandoc/core:3.5
         with:
+          working-directory: ./introduction
           args: >-  # allows you to break string into multiple lines 
             --standalone
             --reference-doc=templates/closer-reference.pptx
