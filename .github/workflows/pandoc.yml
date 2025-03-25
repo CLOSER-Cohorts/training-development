@@ -2,11 +2,10 @@ name: Long Usage
 
 on: push
 
-defaults:
-  run:
-    working-directory: introduction
-
 jobs:
+  defaults:
+    run:
+      working-directory: introduction
   convert_via_pandoc:
     runs-on: ubuntu-22.04
     steps:
