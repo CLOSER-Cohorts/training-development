@@ -70,7 +70,7 @@ The principles covered in the rest of this course apply to most types of data
 
 ## Data as a research object
 
-![concept](img/concept-measurement-data2.png "Alt text here")
+![concept](introduction/img/concept-measurement-data.png "Alt text here")
 
 
 
@@ -95,6 +95,7 @@ Represented as an interger (whole years)
 
 ## Data as Research object (Terminology)
 
+![](introduction/img/concept-measurement-data-explained.png "Alt text here")
 
 ::: notes
 need some additional text to help
