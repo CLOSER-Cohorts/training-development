@@ -11,6 +11,7 @@ jobs:
         with:
           args: >-  # allows you to break string into multiple lines 
             --standalone
+            --resource-path=introduction
             --reference-doc=templates/closer-reference.pptx
             --output=what-is-data.pptx
             introduction/what-is-data.md
