@@ -14,7 +14,6 @@ jobs:
             --standalone
             --reference-doc=templates/closer-reference.pptx
             --output=what-is-data.pptx
-            --workdir=/github/workspace/introduction
             introduction/what-is-data.md
       - uses: actions/upload-artifact@v4
         with:
