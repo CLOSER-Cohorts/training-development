@@ -85,6 +85,8 @@ Through this course we will use the terms, Concept, Measure and Data
 
 ![](img/concept-measurement-data2.png "Alt text here")
 
+
+
 ::: notes
 Concept of Age
 Measures in years
@@ -96,6 +98,8 @@ Represented as an interger (whole years)
 ## Data as Research object (Terminology)
 
 ![](img/concept-measurement-data-explained.png "Alt text here")
+
+
 
 ::: notes
 need some additional text to help
