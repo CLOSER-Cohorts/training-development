@@ -19,3 +19,15 @@ jobs:
         with:
           name: what-is-data.pptx
           path: what-is-data.pptx
+      - uses: docker://pandoc/core:3.5
+        with:
+          args: >-  # allows you to break string into multiple lines 
+            --standalone
+            --resource-path=introduction
+            --reference-doc=templates/closer-reference.pptx
+            --output=what-is-fair.pptx
+            introduction/what-is-fair.md
+      - uses: actions/upload-artifact@v4
+        with:
+          name: what-is-fair.pptx
+          path: what-is-fair.pptx
