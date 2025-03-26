@@ -1,6 +1,6 @@
 name: Long Usage
 
-on: push
+on: workflow_dispatch:
 
 jobs:
   convert_via_pandoc:
