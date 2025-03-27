@@ -1,0 +1,34 @@
+name: Long Usage
+
+on:
+    workflow_dispatch:
+
+jobs:
+  convert_via_pandoc:
+    runs-on: ubuntu-22.04
+    steps:
+      - uses: actions/checkout@v3
+      - uses: docker://pandoc/core:3.5
+        with:
+          args: >-  # allows you to break string into multiple lines 
+            --standalone
+            --resource-path=introduction
+            --reference-doc=templates/closer-reference.pptx
+            --output=what-is-data.pptx
+            introduction/what-is-data.md
+      - uses: actions/upload-artifact@v4
+        with:
+          name: what-is-data.pptx
+          path: what-is-data.pptx
+      - uses: docker://pandoc/core:3.5
+        with:
+          args: >-  # allows you to break string into multiple lines 
+            --standalone
+            --resource-path=introduction
+            --reference-doc=templates/closer-reference.pptx
+            --output=what-is-fair.pptx
+            introduction/what-is-fair.md
+      - uses: actions/upload-artifact@v4
+        with:
+          name: what-is-fair.pptx
+          path: what-is-fair.pptx
