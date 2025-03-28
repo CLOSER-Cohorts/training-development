@@ -1,4 +1,4 @@
-name: Long Usage
+name: Generate powerpoints from markdown
 
 on:
     workflow_dispatch:
