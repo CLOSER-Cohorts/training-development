@@ -1,0 +1,94 @@
+---
+title: Unit 1.0 Introduction to foundation
+author: 
+date: April 29, 2025
+---
+
+## Recap
+
+In the basic training we covered:
+  - What is data
+    - Understanding research data as concept --> measure --> representation
+    - FAIR data principles
+    - Research data management
+  - What is metadata
+      - Definition of metadata
+      - Types of metada: administrative, structural and 
+      - How metadata relates to data management and FAIR principles
+      - When to create metadata (metadata in the research lifecycle)
+  - Metadata components
+      - Controlled vocabularies
+      - Metadata schemas and standards
+   
+  ---
+  
+ ##  Aim of Foundation Course
+
+Now we have understand the main concepts, tools and benefits of metadata, the foundation course will look further into how to create metadata.
+
+We will focus on your role as a metadata creator, exploring:
+
+- What metadata to create
+  - Metadata schemas
+  - Metadata standards
+ 
+- How to create metadata
+  - Manually creating metadata
+  - Tools to create and capture metadata
+  - Where to store metadata
+
+- Captureing metadata
+  - In foundation, we will look at common metadata elements for the following areas:
+    - Dataset metadata
+    - Variable metadata
+    - Question metadata
+    - Codes and categories
+    - Concept metadata
+    
+- How to organise metadata
+  - Mapping metadata
+  - Metadata standards, controlled vocabularies and schemas
+  
+- When to create metadata
+  - Upstream and downstream metadata creation 
+
+---
+
+## Different projects will create and store data in different ways
+
+What metadata you create, how you create it and where you store it will depend on the scope and aim of your research project.
+
+For example:
+- Individual research project which is for personal use only (not shared)
+- A research project shared with small pool people
+- A research project that is publicly discoverable and stored on online repositories (this does not mean the data is open)
+
+---
+
+## Individual research project
+
+If you’re doing an individual research project that only you will be referencing, you may not have the need or resources to create extensive metadata. 
+Though, it is always important to build metadata creation into your research process, no matter how small the project!
+
+Why should you create metadata for an individual project?
+-	Helps you understand your data when you reference it in the future
+-	Enables you build on your research when designing future projects
+-	Implement best practice
+-	If you decide to share your data with other people, it's easy to access and understand
+
+---
+
+## Shared research projects
+
+If you want to share your data with other people, you will need to create more extensive, richer metadata. How much metadata to create and what tools to use depends on how widely you want to share your research.
+
+Small group: If you want to share you research with a small amount of people, you will need to create more metadata, giving further context to your data. You will need to use controlled vocabularies and schemas. 
+
+Widely: If you’re planning to share your research widely, deposit it in data repositories and encourage other researchers to reference and use it, you will need rich metadata that use best practice tools. This includes identifying relevant metadata standards, controlled voacabularies, data repositories (following their requirements for depositing your data) and widely accessible formats.
+
+Why should you create metadata for shared projects?
+-	Enables others to quickly discover and understand your data
+  
+
+ 
+  
