@@ -14,6 +14,7 @@
 **Audience**
 - Focus on metadata creators (still touching on benefits for metadata users)
   - Participants: masters/doctoral students, early career researchers, data managers, funders
+    - Cross-discipline with included focus on survey/questionnaire based research
   - Train the trainers: course tutors, doctoral students, librarian/learning centres
 
 **Delivery**
