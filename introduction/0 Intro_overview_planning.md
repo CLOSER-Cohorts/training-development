@@ -3,9 +3,9 @@
 ---
 ## Aim and objectives
 
-**Objective:** Create an online training accessible to learners and trainers (train the trainers) around metadata in research. Raise awareness of what metadata is, the main features and tools of metadata and why they are important.
+**Objective:** Create an open access online training tailored to both learners (participants) and trainers (train the trainers) around metadata in research. Raise awareness of what metadata is, the main features and tools of metadata and why they are important.
 
-**Aim:** Participants understand what metadata is, why it is important (the benefits of metadata), and the common tools used for implementing best practice. The introduction course will create the 'buy-in' for wanting to create metadta as a researcher. Trainers will feel confident with content and resources to deliver the training in person to other participants.
+**Aim:** Participants will understand what metadata is, why it is important (the benefits of metadata), and the common tools used for implementing best practice. The introduction course will create the 'buy-in' for wanting to create metadta as a researcher. Trainers will feel confident with content and resources to deliver the training in person to other participants.
 
 ---
 ## Audience and delivery
