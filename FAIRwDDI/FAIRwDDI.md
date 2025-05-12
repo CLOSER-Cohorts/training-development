@@ -12,4 +12,9 @@ The CDSP already created and translated DDI training materials in both English a
 
 ## Outline
 
+<details>
+<summary>Create FAQ in collapsible sections</summary>
 
+Answer of collapsible sections here.
+
+</details>
