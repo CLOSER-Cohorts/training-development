@@ -30,7 +30,8 @@
 - Takeaway resource: overview booklet that contains a high-level summary of content (to be available for download / made available to participants once they have completed the course). This should include templates which could be useful for their work and list of external tools and resources available on other sites
 
 **Training resources:**
-- Training slides should also be available 
+- Training guidance handbook (short pdf handout)
+- Material available to export as ppt for delivery
 
 Participant resource requirements: bring own dataset (specification needs to be set out for dataset), nor prior learning to require
 
@@ -80,10 +81,10 @@ Participant resource requirements: bring own dataset (specification needs to be 
    - Signpost to CV catalogues and how to find CVs for your research
   
 - **2.5 Metadata standards**
- - Overview of metadata standards
- - How standards relate to CVs
- - Standards role in upholding FAIR metadata
- - Understand how to identify correct metadata standards for your research
+   - Overview of metadata standards
+   - How standards relate to CVs
+   - Standards role in upholding FAIR metadata
+   - Understand how to identify correct metadata standards for your research
   
 - **2.6 Creating metadata: study level**
   - Practice creating study level metadata using Dublin Core Simple Generator (with worked example and own dataset)
