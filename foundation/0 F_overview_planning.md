@@ -15,6 +15,7 @@
 - Focus on metadata creators (still touching on benefits for metadata users)
   - Participants: masters/doctoral students, early career researchers, data managers, funders
     - Cross-discipline with included focus on survey/questionnaire based research
+    - Single/individual project, research shared with small group, research shared widely
   - Train the trainers: course tutors, doctoral students, librarian/learning centres
 
 **Delivery**
@@ -47,12 +48,12 @@ Participant resource requirements: bring own dataset (specification needs to be 
   - Signpost to external resources
  
  - **1.0 Introduction to foundation**
-  - Aims of foundation: focus on metadata creation
-    
--**1.1 How to create metadata**
-  - Recap what metadata is
-  - Recap important features: machine readable, structured
-  - Metadata formats and where they are stored
+   - Aims of foundation: focus on metadata creation
+
+  - **1.1 How to create metadata**
+    - Recap what metadata is
+    - Recap important features: machine readable, structured
+    - Metadata formats and where they are stored
     
 - **1.2 What metadata to create**
   - Recap of different levels of metadata
