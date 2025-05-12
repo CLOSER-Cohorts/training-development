@@ -13,6 +13,7 @@
 **Audience:**
 - Both metadata users and creators
   - Participants: masters/doctoral students, early career researchers, data managers, funders
+    - Cross-disciplines, training should not be discipline specific
   - Train the trainers: course tutors, doctoral students, librarian/learning centres
 
 **Delivery**
