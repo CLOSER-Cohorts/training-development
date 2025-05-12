@@ -95,6 +95,7 @@ Participant resource requirements: bring own dataset (specification needs to be 
   - Overview of what concepts are
   - Introduce and define unit type, population and universe
   - Common concept metadata elements: name, label, concept, unit type, population, universe
+  - Concepts at variable, question, survey and project level
   - How to use CVs, schemas and standards to implement best practice
   
 - **3.1 Utilising your metadata**
