@@ -71,14 +71,16 @@ Participant resource requirements: bring own dataset (specification needs to be 
   - Definition of variable
   - Overview of what variable metadata is
   - How to identify what variable metadata you need to create for your project
-  - Common variable metadata elements
+  - Common variable metadata elements: label, name, value representation
+  - Other elements you may include: e.g. numeric type
   - How to use CVs, schemas and standards to implement best practice
     
 - **2.3 Question metadata**
   - Overview of questionnaires and different ways to collect data
   - Overview of what question metadata is
   - How to identify what question metadata you need to create for your project (breaking down a questionnaire)
-  - Common question metadata elements
+  - Common question metadata elements: label, name, question text, response domain
+  - Other elements you may include: e.g. numeric type
   - How to use CVs, schemas and standards to implement best practice
     
 - **2.4 Codes and categories**
@@ -90,7 +92,7 @@ Participant resource requirements: bring own dataset (specification needs to be 
 - **2.5 Concept metadata**
   - Overview of what concepts are
   - Introduce and define unit type, population and universe
-  - Common concept metadata elements
+  - Common concept metadata elements: name, label, concept, unit type, population, universe
   - How to use CVs, schemas and standards to implement best practice
   
 - **3.1 Utilising your metadata**
