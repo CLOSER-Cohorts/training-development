@@ -15,7 +15,7 @@ The CDSP already created and translated DDI training materials in both English a
 <details>
 <summary><b>1. What is the difference between data and metadata?</b></summary>
 <p></p>
-Data is the primary information collected during a study, an experiment, or an observation. It aims to measure concepts by collecting data that can be represented in different ways, such as numbers, text, symbols, or pictures. 
+Data is the primary information collected during a study, an experiment, or an observation. It aims to measure concepts by collecting data that can be represented in different ways, such as numbers, text, symbols, or pictures. <p></p>
 
 For data to be meaningful, it needs to have related information about what it measures and how that should be interpreted - this is what metadata captures. 
 
