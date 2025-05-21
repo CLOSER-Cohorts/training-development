@@ -42,7 +42,8 @@ _Example: a search engine cannot read/understand unstructured documentation. As 
 ---
 
 <details>
-<summary><b>3. All the information about my study is in the paper. Why do I need to create metadata?</b></summary>
+<summary><b>3. What are the benefits of creating metadata?</b><p></p>
+&nbsp;&nbsp; :speech_balloon: <i>All the information about my study is in the paper. Why do I need to create metadata?</i></summary>
 <p></p>
 
 When data are described in a research paper, it may take time to find and extract the information you need to understand and reuse data, or it may be incomplete. Also, the purpose of a paper is to report the findings of a particular research question, but data can be reused to answer more research questions than the one it was originally intended to measure. When we aim to share and reuse data, another level of description is needed. Metadata provides the information needed for people to efficiently discover, understand and (re)use data, making your data go further. By maximising the potential of data, metadata creates more opportunity for data citations, secondary research and cross-study comparison. It is also helpful for your future self, to help you understand your own data in the future.
