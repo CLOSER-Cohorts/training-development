@@ -16,7 +16,9 @@ What we aim for in this second work package is a logical follow-up of our previo
 ## Outline
 
 **Objective:** create training materials around DDI: what it is, why to use it and how to create DDI metadata. 
+
 **Aim:** raise awareness and understanding of DDI, as well as the differences between DDI Codebook and Lifecycle. Empower people to know what DDI schema to use and how to create DDI metadata.
+
 **Audience:** newcomers to DDI who have little to no knowledge of the standard. They will have a foundational understanding of what metadata is and how to create it.
 Geogrp
 
