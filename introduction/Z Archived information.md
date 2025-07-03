@@ -24,6 +24,13 @@ You will conduct the next wave of data collection in two months time.
 
 ## Unit 1.2
 
+To be added back in when we go through with train the trainer materials.
+
+:mortar_board: Trainer: give 5-10 minutes for people to discuss what common examples of bad data management is before moving on. Invite people to share their ideas with the group.
+
+:mortar_board: Trainer: give 5-10 minutes for people to discuss what data management is before revealing the definition. Invite people to share their ideas with the group.
+
+
 ---
 
 ## Unit 1.3
