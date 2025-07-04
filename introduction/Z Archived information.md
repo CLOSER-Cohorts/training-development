@@ -35,6 +35,16 @@ To be added back in when we go through with train the trainer materials.
 
 ## Unit 1.3
 
+## Old content
+
+- Helps demonstrate the impact of research when people re-use and cite your dataset, so you get credit for all your outputs
+- Scientific journals and funders now require scientists to share data
+- Increases your visibility as a researcher
+- Improves the quality of your data and accuracy of your research results
+- Provides proof of transparent and valid conduct
+- Improves our confidence in data and research
+
+
 ---
 
 ## Unit 2.1
