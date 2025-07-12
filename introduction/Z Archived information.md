@@ -49,6 +49,16 @@ To be added back in when we go through with train the trainer materials.
 
 ## Unit 2.1
 
+Old Table
+
+|          | N662   | N545  | N1171  | N2REGION | N1112  | N1261 |
+|----------|--------|-------|--------|----------|--------|-------
+|          | N662   | N545  | N1171  | N2REGION | N1112  | N1261 |
+| 1        | 2      |  4    | 6      | -2       | 1      | 1            
+| 2        | 1      |  4    | -1     | 1        | 1      | 1        
+| 3        | 1      |  4    |  4     | 10       | 1      | 1 
+| 4        | 1      |  4    |  4     | 4        | 1      | 1  
+
 ---
 
 ## Unit 2.2
