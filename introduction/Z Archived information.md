@@ -49,7 +49,10 @@ To be added back in when we go through with train the trainer materials.
 
 ## Unit 2.1
 
-Old Table
+**Defining metadata terms**
+You may have come across metadata before, or this may be your first time. As such, you might be coming across new terms or revisiting knowledge of metadata concepts.
+
+**Old Table**
 
 |          | N662   | N545  | N1171  | N2REGION | N1112  | N1261 |
 |----------|--------|-------|--------|----------|--------|-------
@@ -58,6 +61,26 @@ Old Table
 | 2        | 1      |  4    | -1     | 1        | 1      | 1        
 | 3        | 1      |  4    |  4     | 10       | 1      | 1 
 | 4        | 1      |  4    |  4     | 4        | 1      | 1  
+
+
+**Benefits of strucutre and machine-actionability**
+
+ -  For metadata to be machine readable, it must be structured according to a specific set of rules
+    - Standardises the content and structure of documentation, making it easier for computers to extract information from the metadata
+    - Tells a computer what something is, how it relates to other things (“objects”), and what to do with it
+
+- Makes data management for researchers easier and more efficient, saving time and imrpvoing accuracy
+    - Allows researchers to quickly discover, understand and access data
+    - Helps your future self to understand your past research, preserving your data for continued use
+
+- Organise our metadata into useful collections of information. For example, in the previous example, groups of metadata were organised into tabs: Sweep description, Coverage, Funding, Kind of Data, Dataset and Questionnaires.
+
+- Store our data in data repositories
+  
+- Search data repositories/archives
+  [screenshot of filters in a repository]
+  
+- Compare studies
 
 ---
 
