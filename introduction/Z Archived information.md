@@ -82,6 +82,66 @@ You may have come across metadata before, or this may be your first time. As suc
   
 - Compare studies
 
+**Metadata and FAIR [Written out]**
+
+FINDABLE makes it easier to discover and understand data.
+- F1. (Meta)data are assigned a globally unique and eternally persistent identifier.
+- F2. Data are described with rich metadata.
+- F3. Metadata clearly and explicitly include the identifier of the data they describe
+- F4. (Meta)data are registered or indexed in a searchable resource.
+
+ACCESSIBLE makes it easier to understand how to access the data. 
+- A1. (Meta)data are retrievable by their identifier using a standardised communications protocol (open, free, universally implementable, allows for an authentication and authorisation procedure where necessary)
+- A2. Metadata are accessible, even when the data are no longer available
+- _Note: data does not need to be open but metadata should be accessible._
+
+INTEROPERABLE allows you to combine datasets for further research.
+- I1. (Meta)data use a formal, accessible, shared, and broadly applicable language for knowledge representation.
+- I2. (Meta)data use vocabularies that follow FAIR principles.
+- I3. (Meta)data include qualified references to other (meta)data.
+
+RE-USABLE enables re-use of your own data and re-use for others.
+- R1. (Meta)data are richly described with a plurality of accurate and relevant attributes
+    - (Meta)data are released with a clear and accessible data usage license.
+    - (Meta)data are associated with their provenance.
+    - (Meta)data meet domain-relevant community standards.
+  
+
+::: notes
+https://www.go-fair.org/fair-principles 
+:::
+
+
+**Snippets from other trainings**
+
+Below are snippets from other trainings that may be useful to include here. For now they are not included in the main structure in order to avoid repetition.
+
+Benefits of metadata for you as a researcher:
+- Increases research efficiency
+- Maximises potential of your data, leading to secondary research, data citations and cross study comparison
+- Improves data quality and FAIRness
+
+**Finding information about research projects**
+
+Where would you find the answers to these questions? Where would you look? Who would you contact?
+
+**Finding information about research projects**
+
+You may find the information online on sites like data repositories or data catalogues (more information about data respositories and catalogues in unit 2.4). For example:
+
+**Screenshot 
+
+**Summary**
+
+- Metadata is information that describes data
+- Metadata is based on a structure that can be processed by a computer 
+- Metadata is important for your future self and others to discover, understand and (re)use data
+- Metadata allows researchers to use data effectively because it includes the important information needed to exploit the full potential of data
+
+
+---
+
+
 ---
 
 ## Unit 2.2
