@@ -44,7 +44,6 @@ To be added back in when we go through with train the trainer materials.
 - Provides proof of transparent and valid conduct
 - Improves our confidence in data and research
 
-
 ---
 
 ## Unit 2.1
@@ -138,13 +137,105 @@ You may find the information online on sites like data repositories or data cata
 - Metadata is important for your future self and others to discover, understand and (re)use data
 - Metadata allows researchers to use data effectively because it includes the important information needed to exploit the full potential of data
 
-
----
-
-
 ---
 
 ## Unit 2.2
+
+**Metadata terms**
+
+You may have come across metadata before, or this may be your first time. As such, you might be coming across new terms or revisiting knowledge of metadata concepts.
+
+As an evolving field, it is importnant to note that terminology around metadata can vary depending on the source you are using. The same term can be used or interpreted by people to mean slightly different things. 
+
+In this module we will define different metadata concepts and terms as we go along. Outside of this module, using a glossary or terminiology bank can be a useful way to identify a single source of truth so you can be consistent in your metadata processes.
+  
+For example, you could use [CoData RDM Terminiology bank](https://codata.org/initiatives/data-science-and-stewardship/rdm-terminology-wg/). Alternatively, there might be key organisations in your discipline who provide similar resrouces.
+
+>[!NOTE]
+> Should we/can we include other metadata glossaries/terminology? **BO - depends how consistent they are with one another, it might create confusion if different gloassaries are conflicting but if they're complementary it might be ok. But it might be more helpful and less confusing to have one thing we constantly refer back to** <p></p>
+>Should this be moved to the very top of the training to cover all concepts, not just metadata concepts? OR should this be moved to unit 1.1?
+
+>[!NOTE]
+> BO - maybe in the previous module when we're defining metadata we could tie this in. We could say that there are lots of different definitions and understandings of metadata and its associated terminology, and that in the next module (i.e. this one) we'll spend time unpacking and making sense of the terminology. But I might get to the end of this course and change my mind!
+> :large_blue_diamond: Agree **KR TO MOVE TO PREVIOUS MODULE**
+
+**Metadata and data**
+> ARCHIVING 2 SENTENCES: Most obviously, metadata applies to data which has been collected for a specific purpose. Less obviously, it also applies to data such as text, images or sound which is processed into ‘numbers’ for statistical analysis
+
+>[!NOTE]
+> JJ &rarr; KR
+>What do you mean by project level - give examples. Higher level aggregated information of the project. Explain the purpose of having these levels of metadata <br>
+> Expand on: if you just have the project level information / only have item level / only have project level - what information would you be missing? <br>
+> Explain that you need a collection of different levels of information <br>
+> Include how provenance is important throughout all metadata levels <br>
+
+>[!NOTE]
+> KR question: Would you call it Item level metadata or data level metadata? <br>
+> Should be it be study/project? What is difference between study or project? <br>
+
+**Metadata as a search tool**
+
+Metadata are also leveraged in search and filter tools to help users discover research data.
+
+>[!NOTE]
+> BO - leveraged as or leveraged in? I think it's in (but could be wrong!).
+
+**Variable search tool**
+
+UK Data Service Variable and Question Bank. 
+
+<img src="img/UKDS_qvbank.png" alt="Alt Text" width="700" height="320">
+
+CLOSER Variable search 
+
+<img src="img/CL_searchpage.png" alt="Alt Text" width="700" height="320">
+
+**Keyword search tool**
+
+CESSDA Data Cataologue search 
+
+<img src="img/CESSDA_seachpage.png" alt="Alt Text" width="700" height="320">
+
+>[!NOTE]
+>Add
+>Example: UK LAC - Linkeage data - having information at the wrong level - consent around data sharing wasn't documented at correct level
+
+Knowing what different levels and types of metadata you can create can help you organise your metadata and check that you have captured necessary information to describe your data thoroughly.
+
+**Where you find metadata in reseach settings**
+
+Outside of the metadata you create for your own research, you will most commonly come across metadata in data catalogues and data repositories.
+
+For example:
+
+- Project level:_[add screenshot example]_
+- Dataset level:_[add screenshot example]_
+- Item level:_[add screenshot example]_
+
+THINK ABOUT WHERE TO PLACE THIS
+
+**Where is metadata used in research settings?**
+
+Registry - single source of information (not interchange) - FAIRSharing (registry of places that share data in a FAIR way)
+
+Catalogue if you have a catalogue that uses a standard, you can aggregate metadata to a central place. However, catalogues do not always specify standards.
+
+Repository - a way of maintaining the provenance and evolution of the metadata - has information around versioning. 
+
+The level of metadata created also depends on where the data will be deposited e.g. some data registries or catalogues may only require you to briefly describe your sample and the types of data collected - we can say repos will be covered in more detail later.
+
+>[!NOTE]
+> Is it helpful to make this distinction here?
+> How can we describe the differences?
+> Venn diagram between these tools
+> BO - I like the idea of a diagram. I think we should define provenance here as I don't think we've mentioned it yet and it's quite jargon-y. We need a transitioning sentence at the start of this or at the end of the previous section. Maybe related to my comment above about what you create depends on where it's going to end up?
+
+However, as a research project is described in more detail, the type of data the project collected will inform what metadata can be captured.
+
+- Increased workload
+- Time consuming and resource heavy
+- Limited usability
+- Not relevant for your data
 
 ---
 
@@ -153,6 +244,36 @@ You may find the information online on sites like data repositories or data cata
 ---
 
 ## Unit 2.4
+
+Discovery to understanding 
+
+Now imagine you have used the search and filter functions to find a list of research projects that may be of interest to you.
+However, when you click through to the resource you are taken straight to this.
+
+_[Provide a screenshot of a research profile page with very little metadata]_
+
+Or if the data is open, straight to the dataset.
+
+_[Provide a screenshot of a dataset with no accompanying documentation]_
+
+What challenges might arise if we only had this information to work from?
+Would you choose to cite or use this dataset in your work? Why?
+Would you trust these sources?
+
+>[!NOTE]
+> BO - could ask how would they find the information they needed to understand and use the data file they'd been given? It links to the point below about contacting the research producers (although this feels a bit repetitive of what we've said in prior units).
+
+---
+
+Discovery to understanding: the role of metadata
+
+Without strong documentation on data catalogue and repository sites, we're not able to easily understand what the research project is about. We have to contact the research producers to clarify details about the research project or we decide not to use the data as we cannot be sure how it was produced or what data it's contains.
+
+This where metadata comes in. Metadata gives us the information to explain what the research project is about, how it delivered and what it's dataset(s) descrive.
+
+>[!NOTE]
+> BO - I feel like we're going back and forth in this section, sometimes revisiting things we've already covered in previous units, especially the bit above about how metadata helps us to understand a research project/data. I think by now they should already know what the role of metadata is, and this section should focus on why and how to use catalogues and respositories, and maybe just have the case study that you've already created flowing throughout each of the sections. I'll stop reviewing this section from here and we can discuss instead. :) 
+
 
 ---
 
