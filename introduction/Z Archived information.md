@@ -35,6 +35,20 @@ To be added back in when we go through with train the trainer materials.
 
 ## Unit 1.3
 
+## FAIR Data assessment list
+
+If you have a dataset, use the [ARDS online FAIR dataset assessment tool](https://ardc.edu.au/resource/fair-data-self-assessment-tool/) to determine how FAIR your data is.
+
+>[!NOTE]
+>**Should this activity come later as it references/asks questions about a person's metadata level? Or could do the test now and ask participants to do it again after the course?**
+>**BO - I think later to have a better understanding of the questions.**
+
+::: notes 
+[FAIRAire](https://www.openaire.eu/how-to-make-your-data-fair) -- has checklist
+Jones, S. & Grootveld, M. (2017, November). How FAIR are your data? Zenodo. http://doi.org/10.5281/zenodo.1065991
+
+:::
+
 ## Old content
 
 - Helps demonstrate the impact of research when people re-use and cite your dataset, so you get credit for all your outputs
