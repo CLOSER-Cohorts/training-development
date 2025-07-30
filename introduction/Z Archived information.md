@@ -35,6 +35,10 @@ To be added back in when we go through with train the trainer materials.
 
 ## Unit 1.3
 
+>[!NOTE]
+>**BO - do we want to say "as researchers", if the audience also includes data managers and funders? We could say "What can we do to enact these principles?" and have some examples for researchers and others for data managers? Or if they're the same there's no need to specify** <P></p>
+> :large_blue_diamond: KR Great point re different audiences. When referring to 'other researchers' finding data, should I generalise that to 'other people' so to capture that it might be researchers, funders, policy makers etc.
+
 ## FAIR Data assessment list
 
 If you have a dataset, use the [ARDS online FAIR dataset assessment tool](https://ardc.edu.au/resource/fair-data-self-assessment-tool/) to determine how FAIR your data is.
@@ -57,6 +61,16 @@ Jones, S. & Grootveld, M. (2017, November). How FAIR are your data? Zenodo. http
 - Improves the quality of your data and accuracy of your research results
 - Provides proof of transparent and valid conduct
 - Improves our confidence in data and research
+
+## FAIR unit summary
+
+- **F**indable, **A**ccessible, **I**nteroperable, **R**e-usable
+- Aims to optimise and make reuse of data easier
+- Infrastructures are best placed to implement FAIR for the benefit of users
+- Data producers and users need to contribute to create FAIR data
+
+>[!NOTE]
+>**BO - Do we say the second point before the summary? If not we should, as the summary should include key points from the previous content.**
 
 ---
 
