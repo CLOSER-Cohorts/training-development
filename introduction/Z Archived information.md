@@ -76,6 +76,19 @@ Jones, S. & Grootveld, M. (2017, November). How FAIR are your data? Zenodo. http
 
 ## Unit 2.1
 
+
+>[!NOTE]
+> KR Followed definition that structure of the metadata = element and the content = field <br>
+> KR to update with CoData RDM terminology once complete
+> BO - Yes, but we could maybe use more plain language instead of or alongisde this. The way I think about metadata elements is that they're the type of metadata, it's like a label for the metadata. We can see this clearly in the Discovery screenshot and your examples in your definition. The way I think about metadata fields is what you've written - it's a space to input the content. Could we add an example to metadata fields, like you've done for elements? You could say something like e.g. only numeric values may be permitted. <br>
+> :large_blue_diamond: KR Updated, does this read better?
+
+As well as external factors, metadata is helpful for your future self, to help you understand your data later down the line, and be able to share it in a meaningful way with others.
+
+If we didn't have data level metadata and only had high level metadata, we would have to guess about what the dataset contains or contact someone for further details. We may then access the data and find that 
+
+Equally, if we only had data level metadata, we wouldn't know important information about who produced the data, when it was produced and where. 
+
 **Defining metadata terms**
 You may have come across metadata before, or this may be your first time. As such, you might be coming across new terms or revisiting knowledge of metadata concepts.
 
@@ -169,11 +182,17 @@ You may find the information online on sites like data repositories or data cata
 
 ## Unit 2.2
 
+>[!NOTE]
+> KR I feel the tone in this unit talks more to metadata creators (master students, researchers and data managers). For example, I use 'you should ...' or 'your data .../your research ...' etc. <p></p>
+> Should I generalise it so it speaks also to funders and people who will not be directly involved in the metadata creation process? <p></p>
+> BO - I quite like using phrases like your data/your research etc, as I think it fits in with the more personal/colloquial tone. I think the main audience will be individuals wanting to learn more about metadata, so I think it's fine.
+
+
 **Metadata terms**
 
 You may have come across metadata before, or this may be your first time. As such, you might be coming across new terms or revisiting knowledge of metadata concepts.
 
-As an evolving field, it is importnant to note that terminology around metadata can vary depending on the source you are using. The same term can be used or interpreted by people to mean slightly different things. 
+As an evolving field, terminology around metadata can vary depending on the source you are using. The same term can be used or interpreted by people to mean slightly different things. 
 
 In this module we will define different metadata concepts and terms as we go along. Outside of this module, using a glossary or terminiology bank can be a useful way to identify a single source of truth so you can be consistent in your metadata processes.
   
