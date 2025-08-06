@@ -323,6 +323,13 @@ This where metadata comes in. Metadata gives us the information to explain what 
 >[!NOTE]
 > BO - I feel like we're going back and forth in this section, sometimes revisiting things we've already covered in previous units, especially the bit above about how metadata helps us to understand a research project/data. I think by now they should already know what the role of metadata is, and this section should focus on why and how to use catalogues and respositories, and maybe just have the case study that you've already created flowing throughout each of the sections. I'll stop reviewing this section from here and we can discuss instead. :) 
 
+## Using Codebooks and data dictionaries
+
+_In progress section_
+
+Add information about:
+- Where you can find codebooks/data dictionaries and how you can access them
+- Give an example of a codebook/data dictionary and ask what information you can gain from them (could tie to an activity e.g. ask people to find information about a particular variable, e.g. how many missing cases)
 
 ---
 
@@ -351,3 +358,6 @@ Cross-study comparison case studies:
 
 
 ## Unit 2.6
+
+>[!NOTE]
+> BO - I think in the last unit we just said CVs help our metadata become "machine-actionable" (I might be misremembering though!). I can't remember if we've mentioned the difference between machine readable and machine actionable in the earlier units? If we haven't, I think we should do this the first time we introduce the terms, and then make sure we're using the appropriate one(s) going forward.
