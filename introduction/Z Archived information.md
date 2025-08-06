@@ -312,6 +312,12 @@ Would you trust these sources?
 >[!NOTE]
 > BO - could ask how would they find the information they needed to understand and use the data file they'd been given? It links to the point below about contacting the research producers (although this feels a bit repetitive of what we've said in prior units).
 
+
+For example, if you had a look at this data catalogue page on XXX [Give link to research project profile page], what could you tell someone about the actual data it collected?
+
+Would you be able to describe what variables are within the dataset? Or how many cases it recorded for each variable?
+
+
 ---
 
 Discovery to understanding: the role of metadata
@@ -355,9 +361,52 @@ Cross-study comparison case studies:
 
 ---
 
-
-
 ## Unit 2.6
 
 >[!NOTE]
+> Notes from discussion with JJ: <p></p>
+> Dublin Core is a standard expressed as a schema <p></p>
+> Schema is name, label, description and relationship between metadata elements (description and structure) <p></p>
+> Schema is technical description of a standard - it will normally be in XML, JSON <p></p>
+> Schemas separates metadata element information from the actual metadata <p></p>
+> Standard is the whole thing <p></p>
+> Are dublin core and datacite known as a schema or a standard?
+> Metadata schemas provide similar clarification to metadata elements that contolled vocabularies do for metadata fields
+> Schemas constrict meaning of metadata element
+> **REVIEW** (doesn't necessarily belong here) Exercise - CSV file (name of column), database schema (name of column and data format), SPSS/STATA/SAS file (data, codelist, label of column but doesn't include relationships), DDI file
+
+
+Moreover, the machine actionability of metadata
+- Makes data more FAIR by increasing the quality of the metadata
+  - Promotes interoperability of metadata
+  - By enabling cross-study comparison and secondary research, metadata standards support data re-usability
+
+
+>[!NOTE]
 > BO - I think in the last unit we just said CVs help our metadata become "machine-actionable" (I might be misremembering though!). I can't remember if we've mentioned the difference between machine readable and machine actionable in the earlier units? If we haven't, I think we should do this the first time we introduce the terms, and then make sure we're using the appropriate one(s) going forward.
+
+## Case study (practice): Finding a metadata standard
+
+Which metadata standard would you choose for this research project?
+
+Using [Metadata standards catalogue](https://rdamsc.bath.ac.uk/subject-index) or the [DDC Metadata standards guideline](https://www.dcc.ac.uk/guidance/standards/metadata) identify a relevant metadata standard to use for this research.
+
+_[Description of research project - discipline, area of enquiry]_
+
+>[!NOTE]
+> We would then explain what metadata standard we picked for this dataset and give the reasoning behind it (e.g. popular in the discipline, expansive, relevant etc.)
+
+---
+
+## Case study (answer): Finding a metadata standard
+
+This is the metadata standard we chose.
+
+Reasons behind this choice:
+- [give the thought process behind choosing that particular metadata standard]
+
+---
+
+## Application: Find a metadata standard for your research
+
+Now you have practised finding a relevant metadata standard, find a metadata standard for you research.
