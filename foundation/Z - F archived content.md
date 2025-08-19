@@ -64,3 +64,16 @@ Metadata input fields: controlled vocabularies
 ## Example: Defining 'Date', 'Creator' and 'Relation' using a metadata standard
 
 The core elements listed above are based on the Dublin Core Schema
+
+---
+## Codebooks and data dictionaries 
+
+We touched on codebooks and data dictionaries in the Introduction in unit 2.2.
+
+When you create variable metadata, you can produce a codebook and/or data dictionary for your research.
+
+For more guidance on how to create a codebook or data dictionary, follow these resources:
+
+
+>[!NOTE]
+> Should data dictionaries be included here rather than left to the end? Could explain them here and at the end so they are repeated.
