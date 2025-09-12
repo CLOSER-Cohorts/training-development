@@ -39,60 +39,87 @@ Participant resource requirements: bring own dataset (specification needs to be 
 ---
 ## Course Overview
 
-- Features within each unit:
-  - Worked examples
-  - Activities to apply to own dataset
-  - Signpost to external resources
+Features within each unit:
+- Worked examples
+- Activities to apply to own dataset
+- Signpost to external resources
 
-- **1.1 Research data**
+**1.1 Research data**
+- Learning objectives
+
+
+- Outline 
   - Understanding data in research
   - Concept -> measurement -> data
     
--**1.2 Research data management**
+**1.2 Research data management**
+- Learning objectives
+
+
+- Outline 
   - Overview of RDM and it's importance
   - Signpost to other RDM courses
     
-- **1.3 FAIR**
+**1.3 FAIR**
+- Learning objectives
+
+
+- Outline 
   - FAIR as key principle in RDM
   - Cover FAIR principles
   - Identify metadata as main tenant of FAIR
     
-- **2.1 Introduction to metadata**
+**2.1 Introduction to metadata**
+- Learning objectives
+
+
+- Outline 
   - High level understanding of metadata
   - WWWWH (context) of data
   - Metadata's role in improving RDM and FAIR, and it's importance
   - The importance of metadata as a user and creator
+  
     
-- **2.2 Metadata in research**
-  - Types of metadata
-  - Levels of metadata
-  - What metadata enables us to do
-  - How, when and what metadata to create (high level)
-    
-- **2.3 Metadata in data lifecycle**
+**2.3 Metadata in data lifecycle**
+- Learning objectives
+
+
+- Outline 
   - Overview of data lifecycle
   - When/how metadata data is created and use in each stage of the data lifecycle
   - Building provenance metadata by creating metadata throughout lifecycle
     
-- **2.4 Controlled vocabularies**
+**2.4 Using metadata**
+- Learning objectives
+
+
+- Outline 
+
+**2.5 Controlled vocabularies**
    - Identifying importance for machine-readable metadata
    - CVs as a key tool in ensuring that
    - CVs role in upholding FAIR metadata
    - Overview of what CVs are (high level overview of taxonomies and ontologies)
    - Signpost to CV catalogues and how to find CVs for your research
   
-- **2.5 Metadata standards**
+**2.6 Metadata standards**
+
+- Learning objectives
+
+
+- Outline 
    - Overview of metadata standards
    - How standards relate to CVs
    - Standards role in upholding FAIR metadata
    - Understand how to identify correct metadata standards for your research
   
-- **2.6 Creating metadata: study level**
+**2.7 Creating metadata: study level**
+- Learning objectives
+
+
+- Outline 
   - Practice creating study level metadata using Dublin Core Simple Generator (with worked example and own dataset)
   - Take a look at Advanced Generator and idenitfy CVs
     
-- **2.7 Using metadata: discover and understand data**
-  - CLOSER, UK Data Service and CESSDA - variable, keyword and question search
-  - Complete searching tasks 
 
 ---
