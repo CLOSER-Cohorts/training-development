@@ -46,10 +46,12 @@ Features within each unit:
 
 **1.1 Research data**
 - Learning objectives
-
+ - Gaining
+ - 
 
 - Outline 
-  - Understanding data in research
+  - The role of data in research
+  - 
   - Concept -> measurement -> data
     
 **1.2 Research data management**
