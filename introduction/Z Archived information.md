@@ -76,6 +76,9 @@ Jones, S. & Grootveld, M. (2017, November). How FAIR are your data? Zenodo. http
 
 ## Unit 2.1
 
+>[!NOTE]
+> BO - Similar to a comment on another unit, we'll want to go through the ILOs in all the units and make sure they're in the same format i.e. Understand..., Be able to explain..., Be able to identify... etc. Here we need to add something before "...Benefits of creating and using metadata" and "...Metadata's role in FAIR".
+
 
 >[!NOTE]
 > KR Followed definition that structure of the metadata = element and the content = field <br>
