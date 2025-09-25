@@ -202,6 +202,12 @@ For example, the two tables below could both be labelled as health data in child
 | 5        | 1      |  4     |  4                | 4                  | 2      
 
 
+- **Who** collected the data? 
+- **What** data did they collect? 
+- **When** was the data collected? 
+- **Where** was the data collected? 
+- **Why** was the data collected? 
+- **How** was the data collected?
 
 ---
 
