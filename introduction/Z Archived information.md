@@ -181,6 +181,28 @@ You may find the information online on sites like data repositories or data cata
 - Metadata is important for your future self and others to discover, understand and (re)use data
 - Metadata allows researchers to use data effectively because it includes the important information needed to exploit the full potential of data
 
+
+For example, the two tables below could both be labelled as health data in children conducted in 1969 across England, Scotland and Wales. However, they contain different data. If we don't have metadata to describe what the dataset contains, we'll have to go through a lengthier process of accessing the data files in order to assess whether they're relevant for us.
+
+|          | Age    | Gender| Weight | Height    | BMI  
+|----------|--------|-------|--------|-----------|------
+| 1        | 2      |  4    | 6      | -2        | 1                  
+| 2        | 1      |  4    | -1     | 1         | 1              
+| 3        | 1      |  4    |  4     | 10        | 1      
+| 4        | 1      |  4    |  4     | 4         | 1      
+| 5        | 1      |  4    |  4     | 4         | 1      
+
+
+|          | Age    | Gender | Visual impairment | Hearing impairment | Use of accessibility equipment
+|----------|--------|--------|-------------------|--------------------|---------------------------
+| 1        | 2      |  4     | 6                 | -2                 | 1          
+| 2        | 1      |  4     | -1                | 1                  | 3         
+| 3        | 1      |  4     |  4                | 10                 | 1     
+| 4        | 1      |  4     |  4                | 4                  | 2      
+| 5        | 1      |  4     |  4                | 4                  | 2      
+
+
+
 ---
 
 ## Unit 2.2
