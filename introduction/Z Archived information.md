@@ -209,6 +209,40 @@ For example, the two tables below could both be labelled as health data in child
 - **Why** was the data collected? 
 - **How** was the data collected?
 
+Depending on how you engage with research, you may be _using_ metadata or _creating_ metadata. Often if you're conducting research yourself, you'll be doing both. 
+
+By being structured, metadata organises our documentation into useful collections of information. In the previous example, groups of metadata were organised into tabs: Sweep description, Coverage, Funding, Kind of Data, Dataset and Questionnaires. This helps both other people and our future selves to understand our resource or research, preserving it for continued use and improving resource management.
+
+A **metadata field** is the input area for a metadata element.
+-
+Sometimes there are rules that dictate what values are allowed in a metadata field in order to make sure metadata is clean.
+  - e.g. for the 'Date' metadata field, there may be a specification to format the information as dd/mm/yyyy
+
+
+We can also store our resources on centralised platforms alongside other resources. These centralised platforms can read a resource's metadata and allow people to search and filter a huge range of resources. 
+
+In research, these platforms could be data repositories, data catalogues or data archives (more information about these plaforms in unit 2.4 Using metadata). This helps us to quickly discover, understand, access and compare different resources. As we use computers to do this, we save time and improve the accuracy of resource management.
+
+
+FAIR AWARE tool The FAIR Aware Tools consists of 10 questions that will take between 10-30 minutes to complete. Using the answers you provide, the tool assess your awareness level, as well as providing tailored tips relevant to your role on how you can further improve your FAIR skills.
+
+The tool is designed for researchers, policy makers, funders, publishers and research support personnel (e.g. data stewards, curators, data managers, librarians).
+
+
+## In short ...
+
+Metadata allows you to realise the full potential of your data, increasing its value and making it go further.
+
+Metadata is ...
+- Information that describes data which can provide a roadmap of your data
+- Based on a structure that can be read and actioned by a computer 
+- A note for your future self
+- A tool to help others discover, understand and (re)use your data
+- A tool for collaboration with others
+- A hallmark of data management best practice and transparency
+- Information that helps us maximise the full potential of data
+
+
 ---
 
 ## Unit 2.2
