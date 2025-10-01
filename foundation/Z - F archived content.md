@@ -3,6 +3,14 @@ title: Foundation archived information
 date: 19/08/2025
 ---
 
+**Who should create study level metadata?** <br>
+Regardless of whether you will deposit your (meta)data in a public repository or catalogue, all studies should capture study level metadata. Study level metadata is important for both discoverability (for others) and data management (for yourself).
+
+**What study and dataset metadata should you create?** <br>
+As we mentioned in the previous unit, while there is no universally agreed minimum metadata requirements, there are come core metadata elements to include for the study level.
+
+---
+
 Where might you find high level metadata?
 
 You will often see study level metadata on data repository and data catalogue pages.
