@@ -215,7 +215,32 @@ For more guidance on how to create a codebook or data dictionary, follow these r
 
 >[!NOTE]
 >BO - It's common to use multiple units of measurement e.g. lots of studies ask respondents to provide their age in years and months (see the last example here https://ucldata.atlassian.net/wiki/spaces/CLOS/pages/37324672/Age-related+examples). Same for height and weight (see example 2 here https://ucldata.atlassian.net/wiki/spaces/CLOS/pages/37324678/Physical+measurements+examples). So should we be saying that you "should" only use one unit of measurement, rather than you "can" only use one unit of measurement? Or maybe it's better to say that if you use multiple units of measurement, you should later be combined them into a single unit of measurement or data point e.g. if you ask for age in years and months, you'd combine "1 year" with "1 month" to give you "13 months" for the purpose of your data analysis? Sorry if this sounds picky, I just don't want us to confuse people if they're used to seeing multiple units of measurement.<br>
-> JJ - BO - true, but I think the point is to say that what should end up in a single column of data should be of the same unit of measurement, ie the data collection might be. I think this is point to be made in the foundational section, so perhaps removed the second paragraph         
+> JJ - BO - true, but I think the point is to say that what should end up in a single column of data should be of the same unit of measurement, ie the data collection might be. I think this is point to be made in the foundational section, so perhaps removed the second paragraph
+
+
+---
+
+- 1 = Male
+- 2 = Female
+- 3 = Trans male
+- 4 = Trans female
+- 5 = Non-binary
+- 6 = Gender fluid
+- 7 = Prefer not to answer
+- 8 = Not specified
+ 
+OR<br>
+
+- M = Male
+- Fm = Female
+- TM = Trans male
+- TFm = Trans female
+- NB = Non-Binary
+- Fd = Gender fluid
+- PN = Prefer not to answer
+- NS = Not specified
+
+To capture this metadata in the excel template, it may look like this...
 
 
 ---
