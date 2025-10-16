@@ -1,1 +1,25 @@
-<img src="Younglifeandtimes2011Qu.png" alt="Alt Text" width="425" height="900"> 
+---
+title: Dataset example
+collaborators: 
+date: October, 10 2025
+---
+
+<img src="img/Younglifeandtimes2011Qu.png" alt="Alt Text" width="425" height="900"> 
+
+respondentID |year   |	rsex |	yearsni	| placeliv | thisoct | oct2yrs | typeschl	| relschl
+|------------|-------|-------|--------|-----------|-------|-------|-------|-------
+1211 | 2011 |	2	| 16	| 2	| 1	| 1	| 2	| 5
+1212 | 2011	| 1	| 16	| 3	| 1	| 1	| 2	| 1
+1213 | 2011	| 1	| 16	| 2	| 1	| 4	| 2	| 3
+1214 | 2011	| 1	| 16	| 5	| 1	| 1	| 3	| 2
+1215 | 2011	| 2	| 16	| 3	| 4	| 4	| 2	| 2
+1216	| 2011	| 1	| 16	| 1	| 1	| 1	| 3	| 2
+1217	| 2011	| 1	| 16	| 2	| 1	| 1	| 2	| 2
+1218	| 2011	| 2	| 16	| 3	| 1 |	4 |	2	| 1
+1219	| 2011	| 2	| 16	| 2	| 1	| 1	| 2	| 2
+1220	| 2011	| 1	| 16	| 2	| 1	| 1	| 2	| 2
+
+
+
+
+
