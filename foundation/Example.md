@@ -4,6 +4,8 @@ collaborators:
 date: October, 10 2025
 ---
 
+Look at the example questionnaire and corresponding dataset below.
+
 <img src="img/Younglifeandtimes2011Qu.png" alt="Alt Text" width="425" height="900"> 
 
 respondentID |year   |	rsex |	yearsni	| placeliv | thisoct | oct2yrs | typeschl	| relschl
@@ -20,6 +22,55 @@ respondentID |year   |	rsex |	yearsni	| placeliv | thisoct | oct2yrs | typeschl	
 1220	| 2011	| 1	| 16	| 2	| 1	| 1	| 2	| 2
 
 
+Variable metadata
 
+| name          |label         |	description |	value representation	| data type | unit of measurement | valid range 
+|---------------|--------------|--------------|-----------------------|-----------|---------------------|---------
+respondentID    |              |	            |	                     	|           |                   	|   
+year            |              |	            |	                     	|           |                   	|   
+rsex            |              |	            |	                     	|           |                   	|   
+yearsni         |              |	            |	                     	|           |                   	|   
+placeliv        |              |	            |	                     	|           |                   	|   
+thisoct         |              |	            |	                     	|           |                   	|   
+oct2yrs         |              |	            |	                     	|           |                   	|   
+typeschl        |              |	            |	                     	|           |                   	|   
+relschl         |              |	            |	                     	|           |                   	|   
+
+
+| name      | unit type	| population   | Universe       |Derived    |	Data provenance  |	Data provenance  |	Source reference
+|---------------|----------|--------------|----------------|-----------|-------------------|-----------------|---------
+| respondentID  |              |	            |	                     	|           |                   	|        |
+year            |              |	            |	                     	|           |                   	|        |
+rsex            |              |	            |	                     	|           |                   	|        |
+yearsni         |              |	            |	                     	|           |                   	|        |
+placeliv        |              |	            |	                     	|           |                   	|        |  
+thisoct         |              |	            |	                     	|           |                   	|        |
+oct2yrs         |              |	            |	                     	|           |                   	|        |
+typeschl        |              |	            |	                     	|           |                   	|        |
+relschl         |              |	            |	                     	|           |                   	|        | 
+
+| name      | Missing value code	| Number of cases | Valid cases |Invalid cases    |
+|------------|-------|--------------|------------------------|-----------
+respondentID    |              |	            |	                     	|           |  
+year            |              |	            |	                     	|           |           
+rsex            |              |	            |	                     	|           |                
+yearsni         |              |	            |	                     	|           |              
+placeliv        |              |	            |	                     	|           |                  
+thisoct         |              |	            |	                     	|           |                  
+oct2yrs         |              |	            |	                     	|           |              
+typeschl        |              |	            |	                     	|           |                   	
+relschl         |              |	            |	                     	|           |                 
+
+
+Question metadata 
+
+| Question label | Question name |Question text          |  Question instruction      | Response Domain                                     | Select type  | Codelist reference  | Variable reference  |             
+|---------------|---------------|-----------------------|----------------------------|-----------------------------------------------------|----------------------|--------------------|------------
+|            |           |          |       |          |             |             | 
+|      |             |     |   |  |        |       | perphne_v1
+| Q_13          | 13            |bHow many close friends do you have – friends you could talk to if you were in some kind of trouble? | -  |Numeric  | -        | -        | -        |
+
+
+Code and category metadata 
 
 
