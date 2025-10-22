@@ -153,7 +153,7 @@ relschl         |
 rsex
 | Codelist name     | Codelist label     | Codelist description                      | 
 |-------------------|--------------------|-------------------------------------------|
-| pers_sex          | Sex of person      | Two categories for self identification    |                  
+| pers_sex          | Sex of person      | Indciates if reposndent self identificaties as male or female    |                  
   
 | Codes | Category         | 
 |------|-------------------|
@@ -166,26 +166,102 @@ memmec
 
 | Codelist name     | Codelist label     | Codelist description                      | 
 |-------------------|--------------------|-------------------------------------------|
-| pers_sex          | Sex of person      | Two categories for self identification    |                  
+| pers_ethnmi       | Member of an ethnic minority community    | Indicates if respondent self-identifies as a member of ethnic minorty community  |                  
   
 | Codes | Category         | 
 |------|-------------------|
 | -99  |  Not answered     |                   
 | 1    |  Yes              |                   
-| 2    |  No               |     
-
-| Codelist name     | Code | Category          | 
-|-------------------|------|-------------------|
-| pers_ethnmi       | -99  |  Not answered     |                   
-|                   | 1    |  Yes              |                   
-|                   | 2    |  No               |                         
-
+| 2    |  No               |    
 
 placeliv
+
+| Codelist name     | Codelist label     | Codelist description                      | 
+|-------------------|--------------------|-------------------------------------------                    
+| locality_des     | Description of locality  | Indicates how respondents describe where they live currently                   
+
+
+| Codes | Category         | 
+|------|-------------------|
+| -99  |  Not answered                        
+| 1    |  a big city                                 
+| 2    | the suburbs or outskirts of a big city
+| 3    | a small city or town                 
+| 4    | a country village   
+| 5    | or a farm or home in the country  
+| 6    | Don't know 
+| 99   | Missing  
 
 
 thisoct + oct2yrs
 
+| Codelist name     | Codelist label     | Codelist description                      | 
+|-------------------|--------------------|-------------------------------------------                    
+| Life_activity_now | Current education or employment status | Indicates whether respondent's employment and education status
+
+| Codes | Category         | 
+|------|-------------------|
+| -99  | Not answered                        
+| 1    | At to college or university full time                               
+| 2    | Working full time
+| 3    | Working part time               
+| 4    | At college or university and working part time  
+| 5    | On a training scheme
+| 6    | Unemployed (Please say why you think you are unemployed)
+| 7    | Other (Please write in)
+| 99   | Missing  
+
+| Codelist name     | Codelist label     | Codelist description                      | 
+|-------------------|--------------------|-------------------------------------------                    
+| Life_activity_2yrs | Percieved education or employment status in 2 years | Indicates how respondent's predict their employment and education status in 2 years
+
+| Codes | Category         | 
+|------|-------------------|
+| -99  | Not answered                        
+| 1    | Going to college or university full time                               
+| 2    | Working full time
+| 3    | Working part time               
+| 4    | At college or university and working part time  
+| 5    | On a training scheme
+| 6    | Unemployed (Please say why you think you will be unemployed)
+| 7    | Other (Please write in)
+| 99   | Missing  
+
 typeschl
 
+| Codelist name     | Codelist label     | Codelist description                      | 
+|-------------------|--------------------|-------------------------------------------                    
+| Schl_type | Northern Irish school types | Description of school types in Northern Ireland as of 2011
+
+| Codes | Category         | 
+|------|-------------------|
+| -99  | Not answered                        
+| 1    | Planned integrated                              
+| 2    | Grammar
+| 3    | Secondary             
+| 4    | Irish language
+| 5    | Special school
+| 6    | Other (Please write in)
+| 99   | Missing  
+
 relschl
+
+| Codelist name     | Codelist label     | Codelist description                      | 
+|-------------------|--------------------|-------------------------------------------                    
+| Schl_rel | Religious make up of school | Describe Protestant and Catholic population of school
+
+| Codes | Category         | 
+|------|-------------------|
+| -99  | Not answered                        
+| 1    | all or nearly all Protestant                            
+| 2    | all or nearly all Catholic
+| 3    | mostly Protestant            
+| 4    | mostly Catholic
+| 5    | about half Protestant and half Catholic
+| 6    | Other Don't know
+| 99   | Missing  
+ 
+
+
+
+
