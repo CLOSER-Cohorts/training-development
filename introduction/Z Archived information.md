@@ -429,6 +429,11 @@ Cross-study comparison case studies:
 ## Unit 2.6
 
 >[!NOTE]
+> Key takeaways for three pin analogy: Standardisation increases efficiency and simplifies workflows / Economic of scale argument <br>
+> KR Should we include the three pin analogy in this unit or do we feel content works ok without?<br
+> BO - I think real world examples are always helpful. We could add it right to the start before we go into standards in the research context?
+
+>[!NOTE]
 > Notes from discussion with JJ: <p></p>
 > Dublin Core is a standard expressed as a schema <p></p>
 > Schema is name, label, description and relationship between metadata elements (description and structure) <p></p>
