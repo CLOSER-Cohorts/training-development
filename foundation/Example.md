@@ -61,7 +61,7 @@ ARK. Young Life and Times Survey, 2011 [computer file]. ARK www.ark.ac.uk/ylt [d
 |---------------|--------------|--------------|-----------------------|-----------|---------------------|---------
 respondentID    | Respondent ID number     | Anonymised ID assigned to respondent            |	Numeric                  	| positive integer          |    -               	| -  
 yearsni         |  Years lived in Northern Ireland  |	Number of years respondent has lived in Northern Ireland            |	Numeric        	|  positive integer         | Year                  	|  0-16  
-placeliv        | Description of the place respondent lives    |	How the respondent describes their locality    |	Text        	| integer     | -                  	|   -99 - 99
+placeliv        | Description of the place respondent lives    |	How the respondent describes their locality    |	Text        	| String     | -                  	|   -99 - 99
 ethncat         | Ethnic group respondent belongs to      | Self-identified ethnic group	       |	 Text                  	|   String        |       -            	|   -
 memmec         | Does the respondent consider themselves to be a member of a minority ethnic community       |	            |	 Codelist                    	| integer           | -                  	|   -99 - 2
 thisoct         | What has respondent been doing since October 2011       |	            |	 Codelist                    	|     integer      | -                   	|   -99 - 99
