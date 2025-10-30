@@ -355,6 +355,60 @@ However, as a research project is described in more detail, the type of data the
 
 ## Unit 2.3
 
+Look at two sets of metadata for the same example dataset.
+
+Which one has caputres provenance metadata?
+
+**Example one**
+
+| Metadata element           |  Dataset metadata                     | 
+|----------------------------|---------------------------------------|
+| Data collection date       | 2023                                  | 
+| Data collection method     | Survey                         | 
+| Data collection instrument | "Community Health Survey"      | 
+| Version                    | --                                    | 
+| Last updated               | 2024                                  | 
+| Change log                 | --                                    | 
+| Related publications       | Public Health Journal                 | 
+| Repository                 | Not specified                         | 
+| Storage                    | DDI                                   | 
+
+**Example two**
+
+| Metadata element           |  Dataset metadata                     | 
+|----------------------------|---------------------------------------|
+| Data collection date       | March – June 2023                     | 
+| Data collection method     | Online survey                  | 
+| Data collection instrument | "Community Health Survey v2.3" | 
+| Version                    | Version 1.4 (edition history here)    | 
+| Last updated               | 05/12/2024                            | 
+| Change log                 | Category names for variable G123 updated     | 
+| Related publications       | Smith, L. et al. (2020). "Urban Health Trends". Public Health Journal | 
+| Repository                 | World Health Repository               | 
+| Storage                    | DDI 3.3                               | 
+
+
+<details>
+<summary><b>Comparing example metadata</b></summary>
+<p></p> 
+
+Both datasets contain metadata elements that can capture a study's provenance. However, the lack of detail and missing information in example one makes the provenance weaker.
+
+Comparatively in example 2, we are given more specific information for example 'March-June 2023' rather than just '2023' for the data collection date. We are also provided with version information and the date the metadata was last updated.
+
+</details>
+
+<details>
+<summary><b>Why do you think having provenance metadata is important?</b></summary>
+<p></p> 
+
+Provenance enhances transparency, trust, credibility and reproducibility of data by providing details such as who created the data, the history of modifications and who made those changes.
+
+</details>
+
+
+
+
 ---
 
 ## Unit 2.4
