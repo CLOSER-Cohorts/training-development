@@ -30,6 +30,28 @@ To be added back in when we go through with train the trainer materials.
 
 :mortar_board: Trainer: give 5-10 minutes for people to discuss what data management is before revealing the definition. Invite people to share their ideas with the group.
 
+<details>
+<summary><b>Who is impacted by poor research data management?</b></summary>
+<p></p>
+
+Poor research data management impacts both the data owner and other researchers trying to find and understand their data. 
+
+<b>Data owners</b>
+
+
+If you don’t keep track of your data properly, it’s easy to forget what you collected and why. Later on, you might waste time trying to re-oragnise data or lose parts of it altogether. Poorly managed data is especially risky if your data is sensitive and needs to be kept secure. Poorly managed data is also harder for others to find, understand, and trust. That means fewer people will use or cite your work, which can limit its impact. In the long run, this could affect your chances of getting future funding or support.
+
+<b>Other researchers</b>
+
+
+If a research project isn’t well managed, other people will struggle to understand the data or figure out if it’s useful for their own work. Missing information and unclear research processes make the data harder to trust and use. As a result, valuable data might be overlooked, and researchers could end up repeating work that’s already been done as they can't find existing data or make sense of it.
+
+<b>Research as a whole</b>
+
+
+If research data is managed well, a single dataset can be used by mutliple researchers to support a variety of research purposes. This saves time and resources in collecting data. However, if research data is poorly managed, data can't be easily re-used, meaning more time and money will be spent creating similar datasets. 
+
+</details>
 
 ---
 
@@ -520,7 +542,6 @@ _[Description of research project - discipline, area of enquiry]_
 >[!NOTE]
 > We would then explain what metadata standard we picked for this dataset and give the reasoning behind it (e.g. popular in the discipline, expansive, relevant etc.)
 
----
 
 ## Case study (answer): Finding a metadata standard
 
@@ -529,8 +550,52 @@ This is the metadata standard we chose.
 Reasons behind this choice:
 - [give the thought process behind choosing that particular metadata standard]
 
----
 
 ## Application: Find a metadata standard for your research
 
 Now you have practised finding a relevant metadata standard, find a metadata standard for you research.
+
+---
+## 2.7
+
+As we go along, we will refer back to [unit 2.5](<2.5 Controlled vocabularies.md>) and [unit 2.6](<2.6 Metadata standards.md>) to think about the tools we can use to create high-quality, effective metadata.
+
+
+<details>
+<summary><b>Who should create research project metadata?</b></summary>
+<p></p>
+  
+Every research project should caputre some level of metadata. Even if you're not planning to share or deposit your data, metadata is a helpful tool to manage and preserve your data so you can come back to it at a later date. For people who are sharing their data, metadata is key in helping others find, understand and access your data, and is often an essential requirement of data repositories and data catalogues.
+
+</details>
+
+<details>
+<summary><b>When should you create metadata?</b></summary>
+<p></p>
+
+You can create metadata about your research project from the beginning. Starting at the beginning will save you time in the long-term and will allow you to update and add to your metadata as you go along. This means you can capture any changes made to the research project, creating provenance and provide transparency around the research process.
+
+</details>
+
+
+
+<details>
+<summary><b>How can we produce high-quality metadata?</b></summary>
+<p></p> 
+
+**Metadata standards**
+
+As we explored in [unit 2.6](<2.6 Metadata standards.md>), a metadata schema or standard can help make our metadata interoperable with other projects' metadata. Schemas and standards can also help us identify what metadata to create as they often specifcy what metadata elements to capture. You should select a metadata schema or standard at the very beginning of a reasearch project so you don't have to re-do or retrofit metadata into a standard at the end of a project. 
+
+What schema or standard to use depends on your research. You can select a discipline specific standard or an inter-disciplinary standard. If you want to deposit your data or metadata in a repository, the repository may require you to adhere to a specific schema or standard. 
+
+</details>
+
+<details>
+<summary><b>How should you store metadata?</b></summary>
+<p></p>
+
+Metadata should be created and stored in a machine readable format. To begin with, you can create study level metadata in an excel spreadsheet stored alongside your data files. There is also other software available to help create and manage metadata, we will explore this more in the Foundation course.
+
+</details>
+
