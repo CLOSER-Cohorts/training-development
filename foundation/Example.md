@@ -16,6 +16,8 @@ Throughout the foundation course, you can practice applying your knowledge by cr
 
 <img src="img/Younglifeandtimes2011Qu.png" alt="Alt Text" width="425" height="900"> 
 
+
+Dataset title: 7058_ylt11 teaching dataset   
 respondentID |	rsex |	yearsni	| placeliv |ethncat | memmec  | thisoct | oct2yrs | typeschl	| relschl
 |------------|-------|-------|--------|-----------|-------|-------|-------|-------|------
 1211 | 	2	| 16	| 2	|[closed data] |[closed data] | 1	| 1	| 2	| 5
@@ -29,6 +31,8 @@ respondentID |	rsex |	yearsni	| placeliv |ethncat | memmec  | thisoct | oct2yrs 
 1219	|  2	| 16	| 2	|[closed data] |[closed data] | 1	| 1	| 2	| 2
 1220	|  1	| 16	| 2	|[closed data] |[closed data] | 1	| 1	| 2	| 2
 
+
+The full dataset has been deposited on the UK Data Service and [can be seen here](https://datacatalogue.ukdataservice.ac.uk/studies/study/7058#details).
 
 ARK. Young Life and Times Survey, 2011 [computer file]. ARK www.ark.ac.uk/ylt [distributor], May 2012
 
