@@ -482,6 +482,11 @@ Add information about:
 
 ## Unit 2.5
 
+>[!NOTE]
+> Would it be useful here to include a practice example where we give a small set of metadata alongside a short explanation of what the research is about. We then ask participants to find a relevant controlled vocabulary using the Bartoc tool. <br>
+> BO - Yes :) <br>
+>Struggling to find an example for this
+
 Cross-study comparison case studies:
 - [The Effect of the Covid 19 Pandemic on Mental Health](https://learning.closer.ac.uk/researchcasestudies/the-effect-of-the-covid-19-pandemic-on-mental-health/)
   - Uses data from two studies:
