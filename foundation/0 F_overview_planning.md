@@ -4,9 +4,9 @@
 ---
 ## Aim and objectives
 
-**Objective:** Build on introduction to metadata. Applying knowledge of metadata into metadata creation.
+**Objective:** Build on 'Introduction to Metadata' training course. Applying knowledge of metadata into metadata creation.
 
-**Aim:** Participants will understand how to approach metadata creation: how to create metadata, what metadata elements to create, where to create it and when. They will be able to identify what metadata creation tools they need and how they can apply best practice in metadata creation.
+**Aim:** Participants will gain knowledge of additional essential metadata elements, building on the'Introduction to Metadata' training course. They Will understand how to approach metadata creation: how to create metadata, what metadata elements to create, where to create it and when. They will be able to identify what metadata creation tools they need and how they can apply best practice in metadata creation.
 
 ---
 ## Audience and delivery
@@ -49,58 +49,14 @@ Participant resource requirements: bring own dataset (specification needs to be 
  
  - **1.0 Introduction to foundation**
    - Aims of foundation: focus on metadata creation
+  
+- **1.1 Who should create metadata?**
+   - Recap what metadata is
+   - Different researchers / projects will need to create different metadata depending on scope/aim/resources of project
 
-  - **1.1 How to create metadata**
-    - Recap what metadata is
-    - Recap important features: machine readable, structured
-    - Metadata formats and where they are stored
-    
-- **1.2 What metadata to create**
-  - Recap of different levels of metadata
-  - Different researchers / projects will need to create different metadata depending on scope/aim/resources of project
-  - Understanding how to identify what metadata you need to create
-    - Individual project, small shared project, widely shared project
-  - Using catalogues, schemas and standards as a tool to understand what metadata elements to create
-  - In this unit, we will cover common metadata elements
-    
-- **2.1 Dataset metadata**
-  - Recap of dataset metadata: WWWWH (context) of project
-  - Examples of dataset metadata
-  
-  - Recap of Dublin Core Creator Simple/Advanced
-    
-- **2.2 Variable metadata**
-  - Definition of variable
-  - Overview of what variable metadata is
-  - How to identify what variable metadata you need to create for your project
-  - Common variable metadata elements: label, name, value representation
-  - Other elements you may include: e.g. numeric type
-  - How to use CVs, schemas and standards to implement best practice
-    
-- **2.3 Question metadata**
-  - Overview of questionnaires and different ways to collect data
-  - Overview of what question metadata is
-  - How to identify what question metadata you need to create for your project (breaking down a questionnaire)
-  - Common question metadata elements: label, name, question text, response domain
-  - Other elements you may include: e.g. numeric type
-  - How to use CVs, schemas and standards to implement best practice
-    
-- **2.4 Codes and categories**
-  - Overview of what codes and categories are
-  - Introduce and define classifications
-  - Overview of metadata is required for codes and categories 
-  - How to use CVs, schemas and standards to implement best practice
-    
-- **2.5 Concept metadata**
-  - Overview of what concepts are
-  - Introduce and define unit type, population and universe
-  - Common concept metadata elements: name, label, concept, unit type, population, universe
-  - Concepts at variable, question, survey and project level
-  - How to use CVs, schemas and standards to implement best practice
-  
-- **3.1 Utilising your metadata**
-  - Codebooks
-  - Catalogues
-    
-- **3.2 When to create metadata**
-  - When to create metadata 
+- **1.2 Why create metadata?**
+   - Overall readons why to create metadata
+   - Highlighting key things to pick up in this course
+   - Fictional example to demonstrate why documenting metadata helps to understand your data
+   - Simple definitions of metadata elements
+
