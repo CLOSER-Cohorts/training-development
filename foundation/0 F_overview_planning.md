@@ -6,7 +6,7 @@
 
 **Objective:** Build on 'Introduction to Metadata' training course. Applying knowledge of metadata into metadata creation.
 
-**Aim:** Participants will gain knowledge of additional essential metadata elements, building on the'Introduction to Metadata' training course. They Will understand how to approach metadata creation: how to create metadata, what metadata elements to create, where to create it and when. They will be able to identify what metadata creation tools they need and how they can apply best practice in metadata creation.
+**Aim:** Participants will gain knowledge of additional essential metadata elements, building on the'Introduction to Metadata' training course. They will understand how to approach metadata creation: how to create metadata, what metadata elements to create, where to create it and when. They will be able to identify what metadata creation tools they need and how they can apply best practice in metadata creation.
 
 ---
 ## Audience and delivery
@@ -47,16 +47,28 @@ Participant resource requirements: bring own dataset (specification needs to be 
   - Activities to apply to own dataset
   - Signpost to external resources
  
- - **1.0 Introduction to foundation**
+ - **Introduction to foundation**
    - Aims of foundation: focus on metadata creation
   
-- **1.1 Who should create metadata?**
+- **Who should create metadata?**
    - Recap what metadata is
    - Different researchers / projects will need to create different metadata depending on scope/aim/resources of project
 
-- **1.2 Why create metadata?**
+- **Why create metadata?**
    - Overall readons why to create metadata
    - Highlighting key things to pick up in this course
    - Fictional example to demonstrate why documenting metadata helps to understand your data
    - Simple definitions of metadata elements
 
+- **Core metadata elements**
+   - Descriptons of key elements and why they are important to document
+ 
+- **Metadata realtionships**
+  - what the relationships are between elements and why documenting this is important
+
+- **What metadata should you document?**
+  - Key considerations when deciding what metadata to create
+  - What elements are key to create
+ 
+- **Creating your own metadata activity**
+  - Uisng an example questionnaire and dataset to create metadata using an excel template
