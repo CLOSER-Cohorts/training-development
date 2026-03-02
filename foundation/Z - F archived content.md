@@ -293,3 +293,167 @@ Universe
 >KR referencing DDI unit type, population and universe definitions from DDI 
 
 [^1]: Questions taken from the 2020 survey: ['COVID-19 Wave 3 Questionnaire'](https://discovery.closer.ac.uk/item/uk.iser.ukhls/9916faf8-db88-42f9-b666-f4761b293179/1)
+
+
+
+
+
+
+
+
+# Deleted from Question metadata
+What information might we want to record about a questionnaire?
+
+The elements marked with (R) should be considered required metadata that all projects complete. The elements marked with (O) are optional metadata that can be completed if relevant and necessary.
+
+**What was the question?**
+<details>
+<summary>Metadata elements</summary>
+<p></p>
+- Question name (R)
+- Question label (R)
+- Question text (R)
+- Question instruction (O)
+</details>
+
+\----
+
+**How could a respondent answer?**
+<details>
+<summary>Metadata elements</summary>
+<p></p>
+- Response domain (R)
+- Select type (O)
+- Code list reference (O)
+</details>
+
+\----
+
+**What data did the question collect?**
+<details>
+<summary>Metadata elements</summary>
+<p></p>
+- Variable reference (R)
+</details>
+
+\----
+
+**Who was the question asked to?**
+<details>
+<summary>Metadata elements</summary>
+<p></p>
+- Unit Type (R)
+- Universe (R)
+- Population (R)
+</details>
+
+>[!NOTE]
+>SW Unsure what 'select type' means? (respondent answer drop down) <br>
+> KR This is explained later in the unit - should we add explanations here as well?
+
+\----
+## Codelist metadata 
+
+Let's take a closer look into metadata for code lists.
+
+For codelists, we would want to know what codes were used. For example, for Q_11 in the questionnaire screenshot, you could have a code list with the following codes ...
+
+- <1 hours
+- 1-2 hours
+- 3-4 hours
+- 4-5 hours
+- 6-7 hours
+- 8-9 hours
+- 10+ hours
+
+or it could have the codes as stated above ...
+
+- None
+- Less than an hour
+- 1-3 hours
+- 4-6 hours
+- 7 hours +
+
+While both code lists capture information on the same concept and through the same data collection method, they would produce data with different levels of specifity. To record information about code lists, we want to capture code and category metadata. We will look at this metadata in more detail in the next unit. We would also want to caputre whether the code list is single selection or multiple choice.
+
+>[!NOTE]
+> KR Is this section needed? Or should we just explore it in the next unit?
+
+---
+
+
+How would you record metadata for the following section of a questionnaire ... (grid/question items)
+
+## Select type, Codelist reference and variable reference
+
+**Select type**
+You may want to give further information about a codelist to say whether respondents can only select a single option (code) or multiple options.
+
+>[!NOTE]
+>SW perhaps move this explanation up, or retierate where 'select type' is mentioned earlier as an explanation of what it means.
+
+**Code list reference**
+As we will unpack in the next unit (Codes and Categories), if code lists are used, we should create the necessary code list metadata. In the question metadata, we should reference the code list metadata so, if people want to, they can easily access information to further understand the components of the question.
+
+**Variable reference**
+Like the code list reference, the variable reference points to our variable metadata. It indicates what variabels are linked to the question so people can jump to that variable in order to see what type of data it collected and how many cases it recorded.
+
+
+| Question label | Question name |Question text          |  Question instruction      | Response Domain                                     | Select type  | Codelist reference  | Variable reference  |             
+|---------------|---------------|-----------------------|----------------------------|-----------------------------------------------------|----------------------|--------------------|------------
+| Q_11          | 11            | How many hours do you spend watching TV, including video and DVDs, on a normal school day? |-  |Code list  | Single select         | hrs_tv1_cl        | hrs_tv_v1
+| Q_12          | 12            | Do you have your own personal mobile phone? |-  |Code list  |  Single select         | perphne_cl        | perphne_v1
+| Q_13          | 13            |bHow many close friends do you have – friends you could talk to if you were in some kind of trouble? | -  |Numeric  | -        | -        | -        |
+
+---
+
+## Unit Type, Population and Universe 
+
+Like the variable metadata, we can also include Unit Type, Population and Universe for questions. Thinking back to the last unit, what would the Unit Type, Population and Universe be for these questions?
+
+| Question label | Question name |Unit type             |  Population                | Universe                 |          
+|---------------|---------------|-----------------------|----------------------------|----------------------------|
+| Q_11          | 11            | Individual            |                            | 
+| Q_12          | 12            | Individual            |                            | 
+| Q_13          | 13            | Individual            |                           |  
+
+
+>[!NOTE]
+> **KR NEED TO COMPLETE UNIT TYPE/POP/UNIVERSE**
+
+
+---
+## Practice creating question metadata
+
+**ADD EXAMPLE QUESTIONS HERE**
+
+<details>
+<summary><b>Answer</b></summary>
+<p></p>
+
+ADD QUESTION METADATA HERE SO PEOPLE CAN CHECK THEIR WORK
+
+</details>
+
+---
+
+## Deciphering response domains
+
+**Example 1**<br>
+
+What response domain type do you think the following the question is? (codelist / scale)
+
+How satisfied are you with the customer service you received? Select the following...
+
+1 - Very Dissatisfied
+2 - Dissatisfied
+3 - Neutral
+4 - Satisfied
+5 - Very Satisfied
+
+**Example 2**<br>
+
+What response domain type do you think the following the question is? (numeric / scale)
+
+
+**Example 3**<br>
