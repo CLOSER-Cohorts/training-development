@@ -1,5 +1,14 @@
 # Training Development
 
+This repositpory is for work in progress and archived materials from training courses
+
+Latest versions of 
+
+- Introduction and
+- Foundation
+
+are now at https://github.com/CLOSER-Cohorts/understanding-metadata
+
 
 ## Training Plan Overview
 
