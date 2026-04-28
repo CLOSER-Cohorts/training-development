@@ -1,6 +1,6 @@
 # Training Development
 
-This repositpory is for work in progress and archived materials from training courses
+This repository is for work in progress and archived materials from training courses
 
 Latest versions of 
 
