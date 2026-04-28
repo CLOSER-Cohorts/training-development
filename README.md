@@ -7,27 +7,42 @@
 
 flowchart TD
 
-  LH[Learning Hub] 
-  Introduction --> WID[What is Data]
-  WID --> WIM[What is Metadata]
+  Introduction --> WID[What is Research Data]
+  WID --> WIM[What is Research Data Management ]
   WIM --> WIF[What is FAIR]
-  WIF --> WP[Provenance]
-  WP --> MC[Metadata Components]
-  MC --> MS[Metadata Standards]
-  MS --> MR[Metadata Relationships]
-  Foundational --> FDC[Data Concepts]
-  FDC --> FMR[Schemas]
-  FMR --> FAIR[Fair infrastructures]
-  FAIR --> FID[Interoperability]
-  FID --> FMC[Metadata Components <br>Deep Dive]
-  FMC --> FMS[Metadata Standards <br>Uses and Comparison]
-  CodeBook --> DDICU[Using <br>DDI-Codebook]
-  DDICU --> DDICI[Implementing <br>DDI-Codebook <br>Workshop]
-  LifeCycle --> DDILU[Using <br>DDI-Lifecycle]
-  DDILU --> DDILI[Implementing <br>DDI-Lifecycle <br>Workshop]
-  
-  
-    style LH color:#FFFFFF, fill:#AA00FF, stroke:#AA00FF
+  WIF --> WP[What is Metadata]
+  WP --> MC[Metadata in the Research Data Lifecycle]
+  MC --> MS[Using Metadata]
+  MS --> MR[Metadata standards]
+
+  Foundational --> FDC[Who should create metadata]
+  FDC --> FMR[Why metadata matters]
+  FMR --> FAIR[Metadata components]
+  FAIR --> FID[Metadata relationships]
+  FID --> FMC[What metadata to create]
+  FMC --> FMS[Considerations for what metadata to create]
+  FMS --> HTC[How to create metadata]
+
+  Advanced --> DDICU[Metadata reuse]
+  DDICU --> DDICI[Identification]
+  DDICI --> DDILU[Versioning]
+  DDILU --> DDILI[Schemas]
+  DDILI --> MI[Interoprability]
+  MI --> FAIRI[FAIR Infrastructures]
+  FAIRI --> DSMW[Designing sustainable workflows]
+
+
+  SpecialisedXYZ --> RM[ e.g. Repeated Measures]
+ RM --> RMU[What are repeated measures]
+ RMU --> DDIL[DDI Lifecycle]
+ DDIL --> VC[Variable cascade]
+
+ SpecialisedABC --> ML[ e.g. Machine Learning]
+ ML --> MLTD[Metadata for training datasets]
+ MLTD --> MLP[Provenance]
+ MLP --> BP[Best practice]
+
+    
     style Introduction color:#FFFFFF, stroke:#00C853, fill:#00C853
     style WID color:#FFFFOO, stroke:#00C853, fill:#90ee90
     style WIM color:#FFFFOO, stroke:#00C853, fill:#90ee90
@@ -42,10 +57,26 @@ flowchart TD
     style FMC color:#FFFFFF, stroke:#00C853, fill:#318CE7
     style FID color:#FFFFFF, stroke:#00C853, fill:#318CE7
     style FMS color:#FFFFFF, stroke:#00C853, fill:#318CE7
+    style HTC color:#FFFFFF, stroke:#00C853, fill:#318CE7
     style FMR color:#FFFFFF, stroke:#00C853, fill:#318CE7
-    style CodeBook color:#FFFFFF, fill:#AA0000, stroke:#AA00FF
-    style LifeCycle color:#FFFFFF, fill:#AA0000, stroke:#AA00FF
+    style Advanced color:#FFFFFF, fill:#AA0000, stroke:#AA00FF
     style DDICU color:#FFFFFF, stroke:#00C853, fill:#E62020
+    style MI color:#FFFFFF, stroke:#00C853, fill:#E62020
+    style FAIRI color:#FFFFFF, stroke:#00C853, fill:#E62020
+    style DSMW color:#FFFFFF, stroke:#00C853, fill:#E62020
     style DDICI color:#FFFFFF, stroke:#00C853, fill:#E62020
     style DDILU color:#FFFFFF, stroke:#00C853, fill:#E62020
-    style DDILI color:#FFFFFF, stroke:#00C853, fill:#E62020    
+    style DDILI color:#FFFFFF, stroke:#00C853, fill:#E62020
+style SpecialisedXYZ color:#FFFFFF, fill:#AA00FF, stroke:#AA00FF
+style SpecialisedABC color:#FFFFFF, fill:#AA00FF, stroke:#AA00FF 
+
+style RM color:#FFFFFF, fill: #D580FF, stroke:#AA00FF
+style RMU color:#FFFFFF, fill: #D580FF, stroke:#AA00FF
+style DDIL color:#FFFFFF, fill: #D580FF, stroke:#AA00FF
+style ML color:#FFFFFF, fill: #D580FF, stroke:#AA00FF
+style MLTD color:#FFFFFF, fill: #D580FF, stroke:#AA00FF
+style MLP color:#FFFFFF, fill: #D580FF, stroke:#AA00FF
+style BP color:#FFFFFF, fill: #D580FF, stroke:#AA00FF
+style VC color:#FFFFFF, fill: #D580FF, stroke:#AA00FF
+
+ 
