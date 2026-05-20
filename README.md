@@ -4,10 +4,8 @@ This repository is for work in progress and archived materials from training cou
 
 Latest versions of 
 
-- Introduction and
-- Foundation
-
-are now at https://github.com/CLOSER-Cohorts/understanding-metadata
+- Introduction https://github.com/CLOSER-Cohorts/understanding-metadata
+- Foundation https://closer-cohorts.github.io/understanding-metadata-foundation/
 
 
 ## Training Plan Overview
