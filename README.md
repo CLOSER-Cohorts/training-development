@@ -10,6 +10,11 @@ Latest versions of
 
 ## Training Plan Overview
 
+- Introduction: Using metadata
+- Foundation: Creating metadata
+- Intermediate: Managing metadata
+- Specialised: Task-based
+
 ``` mermaid
 
 flowchart TD
